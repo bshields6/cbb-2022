@@ -70,6 +70,7 @@ class League:
 				team.addGame(g)
 				
 		self.normalizeSeasonRatings()
+		#self.teams[83].printGames()
  
 	def createTeams(self):
 		"""Create all teams and initialize ratings."""
@@ -88,8 +89,6 @@ class League:
 		for count,ele in enumerate(teams):
 			if count == NUM_TEAMS:
 				break
-			if ele in NOT_PLAYING:
-				continue
 
 			sos = float(oList[count][1])
 			oLine = oList[count][2:]
@@ -115,19 +114,14 @@ class League:
 		"""Print teams in order of rating."""
 		sortedTeams = sorted(self.teams, key=lambda x: x.rating, reverse=True)
 
-		#print('Team\t\t\t\t\tRating\t\t\t\tWins\tLosses\t\t\tStat\t\t\tSeason\t\t\t\t\tSOS')
-		for t in sortedTeams:
-			string = t.name
-        	#for alignment
-			le = len(t.name)
-			for i in range(2):
-				string += "\t"
-
-			string += "\t" + str(t.rating) + "\t\t" + str(t.wins) + "\t\t" + str(t.losses) + "\t\t" + \
-								str(t.statRating) + "\t\t" + str(t.seasonRating) + "\t\t" + str(t.SOS)
-
-			print(string)
-
+		print('{:<30s}{:<12s}{:<10s}{:<10s}{:<12s}{:<12s}{:<12s}'.format("Name", "Rating", "Wins", "Losses", "Stat", "Games", "SOS"))
+		with open('rankedTeams.txt', 'w') as f:
+			for t in sortedTeams:
+				f.write('\n')
+				print('{:<30s}{:<12f}{:<10n}{:<10n}{:<12f}{:<12f}{:<12f}'.format(t.name, round(t.rating, 6), t.wins, t.losses, round(t.statRating, 6), round(t.seasonRating, 6), round(t.SOS, 6)))
+			f.close()
+		
+			
 
 	def findNumDigits(self, line):
 		"""Find number of digits at end of line."""

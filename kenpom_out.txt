@@ -1,0 +1,358 @@
+Gonzaga
+Baylor
+Purdue
+Kansas
+Houston
+Duke
+Arizona
+UCLA
+Tennessee
+LSU
+Auburn
+Villanova
+Illinois
+Kentucky
+Ohio State
+Texas
+Alabama
+Michigan
+USC
+Michigan State
+Texas Tech
+Virginia Tech
+Xavier
+BYU
+Iowa
+Loyola (IL)
+UConn
+Indiana
+Seton Hall
+Florida
+Memphis
+Wisconsin
+Oklahoma
+San Francisco
+Colorado State
+Northwestern
+UNC
+Florida State
+Saint Mary's
+Arkansas
+San Diego State
+West Virginia
+Mississippi State
+Washington State
+Iowa State
+Clemson
+Creighton
+UCF
+Providence
+Maryland
+Louisville
+Oklahoma State
+Alabama-Birmingham
+Notre Dame
+Utah State
+Virginia
+Belmont
+Oregon
+Davidson
+Richmond
+Boise State
+Texas A&M
+TCU
+Missouri State
+Wake Forest
+St. Bonaventure
+Syracuse
+SMU
+Cincinnati
+Kansas State
+Minnesota
+Rhode Island
+Wichita State
+Marquette
+Utah
+Nevada
+Colorado
+St. John's (NY)
+Buffalo
+Saint Louis
+Murray State
+VCU
+Louisiana Tech
+Vanderbilt
+Fresno State
+NC State
+DePaul
+Penn State
+Drake
+Stanford
+Ole Miss
+North Texas
+South Dakota State
+Wofford
+Arizona State
+Miami (FL)
+Dayton
+Santa Clara
+Rutgers
+Ohio
+Western Kentucky
+Vermont
+Butler
+South Carolina
+Iona
+New Mexico State
+Georgia Tech
+Chattanooga
+Wyoming
+UC-Irvine
+Monmouth
+California
+Georgetown
+Northern Iowa
+Loyola Marymount
+Toledo
+Furman
+Grand Canyon
+Oakland
+Navy
+Liberty
+Hofstra
+Weber State
+UCSB
+Nebraska
+Southern Illinois
+Towson
+Boston College
+Texas State
+Marshall
+UMass
+George Mason
+Southern Utah
+Wagner
+UC-Riverside
+Georgia State
+Akron
+Princeton
+Miami (OH)
+Abilene Christian
+UNLV
+Stephen F. Austin
+Jacksonville State
+Missouri
+Colgate
+Washington
+Delaware
+Tulsa
+Kent State
+Cleveland State
+Temple
+Morehead State
+ETSU
+Yale
+Oregon State
+Fairfield
+Utah Valley
+Rice
+Northeastern
+Western Illinois
+Montana State
+North Dakota State
+UTEP
+Bowling Green State
+Boston University
+Oral Roberts
+East Carolina
+James Madison
+Brown
+Tulane
+Campbell
+Winthrop
+Georgia
+Indiana State
+Appalachian State
+Florida Gulf Coast
+Bradley
+Harvard
+UC-Davis
+Eastern Kentucky
+Louisiana
+Drexel
+UNC Greensboro
+St. Joseph's
+Pitt
+Montana
+South Alabama
+Old Dominion
+Texas Southern
+Cal State Fullerton
+San Diego
+Longwood
+Duquesne
+Northern Kentucky
+Wright State
+College of Charleston
+Bellarmine
+Northern Colorado
+Seattle
+Tarleton State
+Middle Tennessee
+Mercer
+Fordham
+Eastern Washington
+New Hampshire
+Florida Atlantic
+Coastal Carolina
+Stony Brook
+Georgia Southern
+Nicholls State
+Detroit
+Niagara
+Arkansas State
+Louisiana-Monroe
+Gardner-Webb
+The Citadel
+St. Peter's
+California Baptist
+Hawaii
+Charlotte
+Penn
+Illinois State
+Howard
+Valparaiso
+Pacific
+Jacksonville
+Cornell
+Marist
+Kansas City
+Sam Houston State
+Cal State Bakersfield
+UMass-Lowell
+Pepperdine
+Youngstown State
+Bryant
+South Dakota
+UMBC
+Evansville
+New Mexico
+VMI
+South Florida
+Saint Francis (PA)
+Milwaukee
+Florida International
+Quinnipiac
+Stetson
+La Salle
+Jackson State
+George Washington
+Samford
+UC-San Diego
+Troy
+Dartmouth
+Prairie View
+LIU
+Texas-Arlington
+UNC Asheville
+Lipscomb
+North Carolina A&T
+Army
+Radford
+Norfolk State
+Eastern Michigan
+Manhattan
+Merrimack
+San Jose State
+Portland State
+Kennesaw State
+Ball State
+Elon
+High Point
+UIC
+Presbyterian
+Purdue-Fort Wayne
+Sacred Heart
+Air Force
+Loyola (MD)
+Long Beach State
+Texas-Rio Grande Valley
+NJIT
+Tennessee Tech
+Rider
+North Florida
+Canisius
+Southern
+Siena
+SIU-Edwardsville
+Austin Peay
+Dixie State
+Southern Miss
+Cal State Northridge
+UTSA
+St. Thomas (MN)
+Western Carolina
+North Alabama
+Hartford
+Florida A&M
+UNC Wilmington
+Texas A&M-Corpus Christi
+Lafayette
+Southeast Missouri State
+Bucknell
+New Orleans
+Cal Poly
+Idaho State
+Portland
+Lamar
+Albany (NY)
+Mount St. Mary's
+Little Rock
+Sacramento State
+Coppin State
+Southeastern Louisiana
+Tennessee State
+Lehigh
+Robert Morris
+Northern Arizona
+American
+Alcorn State
+Morgan State
+Green Bay
+Northern Illinois
+Western Michigan
+Binghamton
+McNeese State
+St. Francis (NY)
+North Carolina Central
+Central Michigan
+Denver
+Grambling
+Hampton
+Alabama A&M
+USC Upstate
+Northwestern State
+William & Mary
+UT-Martin
+Omaha
+Alabama State
+Idaho
+Fairleigh Dickinson
+Maryland-Eastern Shore
+Charleston Southern
+Central Connecticut
+Central Arkansas
+South Carolina State
+North Dakota
+Columbia
+Holy Cross
+Eastern Illinois
+Bethune-Cookman
+Houston Baptist
+Maine
+Chicago State
+Incarnate Word
+IUPUI
+Arkansas-Pine Bluff
+Delaware State
+Mississippi Valley State

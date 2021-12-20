@@ -57,7 +57,7 @@ Charlotte
 Chattanooga
 Chicago State
 Cincinnati
-Citadel
+The Citadel
 Clemson
 Cleveland State
 Coastal Carolina
@@ -187,7 +187,7 @@ Minnesota
 Mississippi State
 Mississippi Valley State
 Ole Miss
-UMKC
+Kansas City
 Missouri State
 Missouri
 Monmouth
