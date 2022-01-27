@@ -113,15 +113,14 @@ class League:
 	def printTeams(self):
 		"""Print teams in order of rating."""
 		sortedTeams = sorted(self.teams, key=lambda x: x.rating, reverse=True)
-
-		print('{:<30s}{:<12s}{:<10s}{:<10s}{:<12s}{:<12s}{:<12s}'.format("Name", "Rating", "Wins", "Losses", "Stat", "Games", "SOS"))
-		with open('rankedTeams.txt', 'w') as f:
-			for t in sortedTeams:
-				f.write('\n')
-				print('{:<30s}{:<12f}{:<10n}{:<10n}{:<12f}{:<12f}{:<12f}'.format(t.name, round(t.rating, 6), t.wins, t.losses, round(t.statRating, 6), round(t.seasonRating, 6), round(t.SOS, 6)))
-			f.close()
 		
-			
+		print('{:<30s}{:<12s}{:<10s}{:<10s}{:<12s}{:<12s}{:<12s}'.format("Name", "Rating", "Wins", "Losses", "Stat", "Games", "SOS"))
+		with open('Table.csv', 'w') as csvfile:
+			w = csv.writer(csvfile)
+			for t in sortedTeams:
+				print('{:<30s}{:<12f}{:<10n}{:<10n}{:<12f}{:<12f}{:<12f}'.format(t.name, round(t.rating, 6), t.wins, t.losses, round(t.statRating, 6), round(t.seasonRating, 6), round(t.SOS, 6)))
+				w.writerow([t.name, round(t.rating, 6), t.wins, t.losses, round(t.statRating, 6), round(t.seasonRating, 6), round(t.SOS, 6)])
+		csvfile.close()
 
 	def findNumDigits(self, line):
 		"""Find number of digits at end of line."""

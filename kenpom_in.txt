@@ -1,376 +1,374 @@
-NCSOS
-Team
 Gonzaga
 Baylor
-Purdue
-Kansas
-Houston
-Duke
-Arizona
-UCLA
-Tennessee
-LSU
-Auburn
-Villanova
-Illinois
 Kentucky
-Ohio St.
-Texas
-Alabama
-Michigan
-USC
-Michigan St.
+Purdue
+Villanova
+Houston
+Auburn
+Kansas
+Arizona
+LSU
+Duke
+Illinois
+UCLA
 Texas Tech
-Virginia Tech
+Tennessee
+Alabama
+Texas
 Xavier
+Connecticut
+Loyola Chicago
 BYU
 Iowa
-Loyola Chicago
-Connecticut
+Ohio St.
+Michigan St.
+Wisconsin
+USC
+Iowa St.
 Indiana
 Seton Hall
-Florida
-Memphis
-Wisconsin
+Michigan
+Virginia Tech
 Oklahoma
-San Francisco
-Colorado St.
-Northwestern
-North Carolina
-Florida St.
-Saint Mary's
-Arkansas
-NCSOS
-Team
 San Diego St.
-West Virginia
-Mississippi St.
-Washington St.
-Iowa St.
-Clemson
-Creighton
-UCF
-Providence
-Maryland
-Louisville
-Oklahoma St.
-UAB
-Notre Dame
-Utah St.
-Virginia
-Belmont
-Oregon
-Davidson
-Richmond
-Boise St.
-Texas A&M
-TCU
-Missouri St.
-Wake Forest
-St. Bonaventure
-Syracuse
-SMU
-Cincinnati
-Kansas St.
-Minnesota
-Rhode Island
-Wichita St.
+San Francisco
+Saint Mary's
+Florida
+North Carolina
+Arkansas
 Marquette
-Utah
-Nevada
-Colorado
-St. John's
-Buffalo
-Saint Louis
+Wake Forest
 NCSOS
 Team
+Colorado St.
+Davidson
+Mississippi St.
+UAB
+Memphis
+Creighton
 Murray St.
-VCU
-Louisiana Tech
-Vanderbilt
+West Virginia
+Providence
+Boise St.
+Oklahoma St.
+Oregon
+Washington St.
+Florida St.
+Kansas St.
+Belmont
 Fresno St.
-N.C. State
-DePaul
-Penn St.
-Drake
-Stanford
-Mississippi
-North Texas
-South Dakota St.
-Wofford
-Arizona St.
-Miami FL
-Dayton
-Santa Clara
-Rutgers
-Ohio
-Western Kentucky
-Vermont
-Butler
-South Carolina
-Iona
-New Mexico St.
-Georgia Tech
-Chattanooga
+Northwestern
+Texas A&M
 Wyoming
-UC Irvine
-Monmouth
-California
-Georgetown
-Northern Iowa
-Loyola Marymount
-Toledo
-Furman
-Grand Canyon
-Oakland
-Navy
+Miami FL
+TCU
+Notre Dame
+Missouri St.
+Utah St.
+Clemson
+Vermont
+Penn St.
+SMU
+Dayton
+Cincinnati
+Saint Louis
+Iona
+North Texas
+Syracuse
+UCF
+Louisiana Tech
+Colorado
+VCU
+Stanford
 NCSOS
 Team
-Liberty
-Hofstra
-Weber St.
-UC Santa Barbara
-Nebraska
-Southern Illinois
+St. Bonaventure
+Vanderbilt
+Rhode Island
+Chattanooga
+Virginia
+Santa Clara
+Toledo
+Ohio
+Minnesota
+Rutgers
+Wichita St.
 Towson
+New Mexico St.
+South Dakota St.
+Maryland
+Oakland
+Grand Canyon
+St. John's
+Richmond
+Wofford
+DePaul
+Liberty
+Louisville
+Northern Iowa
+Furman
+Drake
+N.C. State
+Buffalo
+UC Irvine
+Nevada
+California
+Utah
+South Carolina
+Western Kentucky
+UNLV
+Bradley
+Wagner
+Oral Roberts
+Mississippi
+Loyola Marymount
+NCSOS
+Team
+Hofstra
+Arizona St.
+Jacksonville St.
+Utah Valley
+Monmouth
+Temple
+George Mason
+Southern Illinois
+Butler
+Colgate
+Tulane
+Tulsa
+Delaware
+Yale
+Morehead St.
+Georgia Tech
+Missouri
+Oregon St.
+Navy
 Boston College
 Texas St.
-Marshall
-Massachusetts
-George Mason
-Southern Utah
-Wagner
-UC Riverside
-Georgia St.
-Akron
-Princeton
-Miami OH
-Abilene Christian
-UNLV
-Stephen F. Austin
-Jacksonville St.
-Missouri
-Colgate
 Washington
-Delaware
-Tulsa
-Kent St.
-Cleveland St.
-Temple
-Morehead St.
-East Tennessee St.
-Yale
-Oregon St.
-Fairfield
-Utah Valley
-Rice
-Northeastern
-Western Illinois
-NCSOS
-Team
+Southern Utah
+Princeton
+Weber St.
+Abilene Christian
+UC Riverside
 Montana St.
-North Dakota St.
-UTEP
-Bowling Green
-Boston University
-Oral Roberts
 East Carolina
-James Madison
-Brown
-Tulane
-Campbell
-Winthrop
-Georgia
-Indiana St.
-Appalachian St.
-Florida Gulf Coast
-Bradley
-Harvard
-UC Davis
-Eastern Kentucky
-Louisiana
-Drexel
-UNC Greensboro
+Stephen F. Austin
+Middle Tennessee
+Georgetown
+UC Santa Barbara
 Saint Joseph's
-Pittsburgh
-Montana
-South Alabama
-Old Dominion
-Texas Southern
-Cal St. Fullerton
-San Diego
-Longwood
-Duquesne
-Northern Kentucky
-Wright St.
-Charleston
-Bellarmine
-Northern Colorado
-Seattle
-Tarleton St.
+Miami OH
+Massachusetts
+Drexel
+Cleveland St.
+Nebraska
+Florida Atlantic
 NCSOS
 Team
-Middle Tennessee
-Mercer
-Fordham
-Eastern Washington
-New Hampshire
-Florida Atlantic
-Coastal Carolina
-Stony Brook
-Georgia Southern
-Nicholls St.
-Detroit Mercy
-Niagara
-Arkansas St.
-Louisiana Monroe
-Gardner Webb
-The Citadel
-Saint Peter's
-Cal Baptist
-Hawaii
-Charlotte
-Penn
-Illinois St.
-Howard
-Valparaiso
-Pacific
-Jacksonville
-Cornell
+Akron
+Seattle
+Brown
+Indiana St.
+Cal St. Fullerton
+South Alabama
+Rice
+Louisiana
+UTEP
 Marist
-UMKC
-Sam Houston St.
-Cal St. Bakersfield
-UMass Lowell
-Pepperdine
-Youngstown St.
-Bryant
-South Dakota
-UMBC
-Evansville
+Montana
+East Tennessee St.
+Georgia St.
+UNC Greensboro
+Kent St.
+Pittsburgh
+Bowling Green
+Tarleton St.
+Boston University
+Arkansas St.
+North Dakota St.
+Troy
+Hawaii
+Longwood
+Texas Southern
+Coastal Carolina
+Winthrop
+San Diego
+Harvard
+Old Dominion
+James Madison
+Appalachian St.
+Western Illinois
 New Mexico
 VMI
+Illinois St.
+Charleston
+Fairfield
+Detroit Mercy
+Fordham
 NCSOS
 Team
+Valparaiso
+Niagara
+Marshall
+Bellarmine
+Saint Peter's
+Campbell
+Gardner Webb
+Mercer
+Nicholls St.
+Duquesne
 South Florida
-St. Francis PA
-Milwaukee
-FIU
-Quinnipiac
-Stetson
-La Salle
-Jackson St.
-George Washington
-Samford
-UC San Diego
-Troy
-Dartmouth
-Prairie View A&M
-LIU
-UT Arlington
-UNC Asheville
-Lipscomb
-North Carolina A&T
-Army
-Radford
-Norfolk St.
-Eastern Michigan
-Manhattan
-Merrimack
-San Jose St.
-Portland St.
 Kennesaw St.
-Ball St.
+Northern Colorado
+UC Davis
+Florida Gulf Coast
+Charlotte
+Wright St.
+Sam Houston St.
+Penn
+Bryant
+Georgia
+Eastern Washington
+Howard
+New Hampshire
+Eastern Kentucky
+Cornell
+Stony Brook
+UT Arlington
+Northeastern
+LIU
+Cal St. Bakersfield
+Georgia Southern
+Samford
+La Salle
+Southern
+Norfolk St.
+Jacksonville
+Quinnipiac
+Cal Baptist
+Dartmouth
+NCSOS
+Team
+Louisiana Monroe
+Youngstown St.
 Elon
-High Point
-Illinois Chicago
-Presbyterian
-Purdue Fort Wayne
-Sacred Heart
-Air Force
-Loyola MD
+UNC Asheville
+Northern Kentucky
 Long Beach St.
+Portland
+South Dakota
+Air Force
+UC San Diego
+UMass Lowell
+Pacific
+UMKC
+Texas A&M Corpus Chris
+St. Thomas
+Loyola MD
+North Carolina A&T
+FIU
+UMBC
+Ball St.
+Manhattan
+Alcorn St.
+Purdue Fort Wayne
+Illinois Chicago
+The Citadel
+Albany
+High Point
+UNC Wilmington
+Jackson St.
+Army
+Milwaukee
+SIU Edwardsville
 UT Rio Grande Valley
-NJIT
+Eastern Michigan
+Pepperdine
+Siena
+Portland St.
+Lipscomb
+George Washington
+Evansville
 NCSOS
 Team
 Tennessee Tech
-Rider
-North Florida
-Canisius
-Southern
-Siena
-SIU Edwardsville
-Austin Peay
-Dixie St.
-Southern Miss
-Cal St. Northridge
-UTSA
-St. Thomas
-Western Carolina
 North Alabama
+Canisius
 Hartford
-Florida A&M
-UNC Wilmington
-Texas A&M Corpus Chris
-Lafayette
-Southeast Missouri St.
-Bucknell
-New Orleans
-Cal Poly
-Idaho St.
-Portland
-Lamar
-Albany
-Mount St. Mary's
-Little Rock
-Sacramento St.
+Presbyterian
+Radford
+Sacred Heart
+Prairie View A&M
 Coppin St.
+San Jose St.
+Stetson
 Southeastern Louisiana
-Tennessee St.
-Lehigh
+New Orleans
+St. Francis PA
+Mount St. Mary's
+Rider
+Sacramento St.
+Cal St. Northridge
+USC Upstate
+Dixie St.
+North Florida
+Merrimack
+Western Carolina
+Northern Illinois
 Robert Morris
-Northern Arizona
-American
-Alcorn St.
+Denver
+Little Rock
+NJIT
+Cal Poly
+Tennessee St.
+Binghamton
+Austin Peay
+Lafayette
+Lehigh
+Southern Miss
 Morgan St.
+Southeast Missouri St.
+Florida A&M
+Tennessee Martin
+McNeese St.
 NCSOS
 Team
-Green Bay
-Northern Illinois
-Western Michigan
-Binghamton
-McNeese St.
-St. Francis NY
-North Carolina Central
-Central Michigan
-Denver
-Grambling St.
-Hampton
 Alabama A&M
-USC Upstate
-Northwestern St.
-William & Mary
-Tennessee Martin
-Nebraska Omaha
 Alabama St.
+Northern Arizona
+Grambling St.
+UTSA
+Western Michigan
+North Carolina Central
 Idaho
-Fairleigh Dickinson
-Maryland Eastern Shore
-Charleston Southern
-Central Connecticut
+Green Bay
+St. Francis NY
+Hampton
 Central Arkansas
 South Carolina St.
-North Dakota
-Columbia
-Holy Cross
-Eastern Illinois
-Bethune Cookman
-Houston Baptist
-Maine
+Lamar
+Idaho St.
+Nebraska Omaha
+Central Michigan
+American
+Bucknell
+Fairleigh Dickinson
 Chicago St.
+Northwestern St.
+Central Connecticut
+Maryland Eastern Shore
+Columbia
+William & Mary
+Bethune Cookman
+Holy Cross
+North Dakota
+Charleston Southern
+Maine
 Incarnate Word
-IUPUI
+Houston Baptist
+Eastern Illinois
 Arkansas Pine Bluff
-Delaware St.
+IUPUI
 Mississippi Valley St.
+Delaware St.
