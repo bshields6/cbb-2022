@@ -118,7 +118,7 @@ class League:
 		with open('Table.csv', 'w') as csvfile:
 			w = csv.writer(csvfile)
 			for t in sortedTeams:
-				print('{:<30s}{:<12f}{:<10n}{:<10n}{:<12f}{:<12f}{:<12f}'.format(t.name, round(t.rating, 6), t.wins, t.losses, round(t.statRating, 6), round(t.seasonRating, 6), round(t.SOS, 6)))
+				print('{:<30s}{:<12f}{:<10n}{:<10n}{:<12f}{:<12f}{:<12f}'.format(t.name, round(5*t.rating, 6), t.wins, t.losses, round(t.statRating, 6), round(t.seasonRating, 6), round(t.SOS, 6)))
 				w.writerow([t.name, round(t.rating, 6), t.wins, t.losses, round(t.statRating, 6), round(t.seasonRating, 6), round(t.SOS, 6)])
 		csvfile.close()
 
