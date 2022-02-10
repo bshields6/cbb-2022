@@ -7858,3 +7858,783 @@ Temple	71	Final
 East Carolina	63	 
 VMI	76	Final
 UNC Greensboro	65	 
+Gonzaga (2) 	92	Final
+San Diego	62	 
+UCLA (3) 	66	Final
+Arizona (7) 	76	 
+USC (19) 	58	Final
+Arizona State	53	 
+Appalachian State	66	Final
+Texas State	68	 
+Belmont	88	Final
+Tennessee State	61	 
+Boise State	65	Final
+Wyoming	72	 
+Bryant	89	Final
+Saint Francis (PA)	82	 
+Cal Poly	50	Final
+Cal State Fullerton	61	 
+Cal State Bakersfield	65	Final
+Long Beach State	74	 
+California Baptist	57	Final
+New Mexico State	68	 
+UC-Irvine	53	Final
+UCSB	52	 
+UC-San Diego	83	Final
+Cal State Northridge	77	 
+College of Charleston	84	Final
+William & Mary	61	 
+Denver	81	Final
+North Dakota	79	OT
+Dixie State	53	Final
+Sam Houston State	77	 
+Drexel	76	Final
+Delaware	68	 
+Eastern Michigan	68	Final
+Ohio	81	 
+Fairleigh Dickinson	64	Final
+St. Francis (NY)	81	 
+Florida Gulf Coast	95	Final
+Central Arkansas	93	OT
+Hawaii	59	Final
+UC-Riverside	64	 
+Idaho	59	Final
+Southern Utah	75	 
+Jacksonville	56	Final
+North Alabama	50	 
+James Madison	76	Final
+Northeastern	71	 
+Kennesaw State	81	Final
+Eastern Kentucky	82	3OT
+Liberty	66	Final
+Bellarmine	53	 
+Louisiana	75	Final
+Little Rock	51	 
+Louisiana-Monroe	60	Final
+Arkansas State	59	 
+Louisiana Tech	73	Final
+Florida Atlantic	83	 
+Loyola Marymount	60	Final
+Santa Clara	79	 
+Marshall	64	Final
+Old Dominion	79	 
+Merrimack	53	Final
+Mount St. Mary's	69	 
+Montana	75	Final
+Weber State	80	 
+Murray State	65	Final
+Austin Peay	53	 
+Omaha	64	Final
+North Dakota State	71	 
+New Orleans	79	Final
+Texas A&M-Corpus Christi	70	 
+Nicholls State	63	Final
+Incarnate Word	60	 
+North Carolina A&T	54	Final
+Winthrop	64	 
+UNC Wilmington	65	Final
+Elon	78	 
+North Florida	88	Final
+Jacksonville State	76	 
+Northern Arizona	62	Final
+Sacramento State	61	 
+Northwestern State	97	Final
+Houston Baptist	87	 
+Oregon	66	Final
+Colorado	51	 
+Oregon State	59	Final
+Utah	84	 
+Pepperdine	76	Final
+Pacific	81	 
+Portland State	106	Final
+Northern Colorado	99	 
+Robert Morris	75	Final
+UIC	80	 
+Sacred Heart	75	Final
+LIU	79	 
+Saint Mary's	75	Final
+Portland	54	 
+San Francisco	73	Final
+BYU	59	 
+San Jose State	62	Final
+Utah State	78	 
+Seattle	66	Final
+Grand Canyon	78	 
+South Alabama	57	Final
+Georgia Southern	58	 
+South Florida	49	Final
+UCF	68	 
+Southeast Missouri State	63	Final
+UT-Martin	84	 
+Southeastern Louisiana	83	Final
+McNeese State	78	 
+Southern Miss	67	Final
+Florida International	77	 
+St. John's (NY)	90	Final
+Georgetown	77	 
+St. Thomas (MN)	72	Final
+Kansas City	81	 
+Stetson	77	Final
+Lipscomb	71	 
+Tennessee Tech	68	Final
+Morehead State	75	 
+UTSA	78	Final
+Rice	91	 
+Towson	78	Final
+Hofstra	68	 
+Troy	67	Final
+Georgia State	63	 
+Utah Valley	59	Final
+Stephen F. Austin	78	 
+Wagner	54	Final
+Central Connecticut	52	 
+Washington	84	Final
+California	63	 
+Washington State	66	Final
+Stanford	60	 
+Western Illinois	90	Final
+Oral Roberts	85	 
+Western Kentucky	78	Final
+Charlotte	59	 
+Western Michigan	55	Final
+Central Michigan	65	 
+Youngstown State	61	Final
+IUPUI	55	 
+Creighton	55	Final
+Seton Hall	74	 
+Dartmouth	69	Final
+Yale	72	 
+Detroit	59	Final
+Wright State	90	 
+Fairfield	56	Final
+Monmouth	59	 
+Green Bay	69	Final
+Cleveland State	85	 
+Harvard	65	Final
+Brown	50	 
+Iona	70	Final
+Canisius	62	 
+Manhattan	74	Final
+Niagara	80	OT
+Miami (OH)	55	Final
+Akron	66	 
+Milwaukee	60	Final
+Purdue-Fort Wayne	70	 
+Nevada	56	Final
+Fresno State	73	 
+Oakland	78	Final
+Northern Kentucky	87	OT
+Penn	81	Final
+Columbia	66	 
+Princeton	83	Final
+Cornell	88	 
+Quinnipiac	74	Final
+St. Peter's	83	 
+Rider	74	Final
+Siena	60	 
+San Diego State	57	Final
+Colorado State	58	 
+St. Bonaventure	61	Final
+Richmond	71	 
+Toledo	83	Final
+Ball State	93	 
+Western Carolina	69	Final
+VMI	76	 
+Auburn (1) 	74	Final
+Georgia	72	 
+Gonzaga (2) 	90	Final
+BYU	57	 
+UCLA (3) 	84	Final
+Arizona State	87	3OT
+Michigan	76	Final
+Purdue (4) 	82	 
+Kentucky (5) 	66	Final
+Alabama	55	 
+USC (19) 	63	Final
+Arizona (7) 	72	 
+Baylor (8) 	59	Final
+Kansas (10) 	83	 
+Duke (9) 	87	Final
+UNC	67	 
+Penn State	49	Final
+Wisconsin (11) 	51	 
+UConn (17) 	74	Final
+Villanova (12) 	85	 
+Michigan State (13) 	63	Final
+Rutgers	84	 
+Texas Tech (14) 	60	Final
+West Virginia	53	 
+Illinois (18) 	74	Final
+Indiana	57	 
+Iowa State (20) 	41	Final
+Texas (23) 	63	 
+DePaul	69	Final
+Xavier (21) 	65	 
+Tennessee (22) 	81	Final
+South Carolina	57	 
+LSU (25) 	66	Final
+Vanderbilt	75	 
+Alabama A&M	64	Final
+Southern	73	 
+Alabama State	80	Final
+Grambling	72	 
+Albany (NY)	71	Final
+Hartford	52	 
+Alcorn State	70	Final
+Arkansas-Pine Bluff	64	 
+Appalachian State	70	Final
+UT Arlington	61	 
+Austin Peay	52	Final
+Morehead State	77	 
+Belmont	100	Final
+Tennessee Tech	92	OT
+Boston University	80	Final
+Lehigh	74	 
+Bradley	76	Final
+Evansville	41	 
+Bryant	62	Final
+Mount St. Mary's	61	 
+Bucknell	72	Final
+Lafayette	74	OT
+Buffalo	74	Final
+Central Michigan	54	 
+Cal Poly	65	Final
+Long Beach State	78	 
+Cal State Bakersfield	61	Final
+Cal State Fullerton	75	 
+California Baptist	50	Final
+Grand Canyon	56	 
+UC-Irvine	75	Final
+Cal State Northridge	70	 
+UC-San Diego	48	Final
+UCSB	84	 
+Campbell	80	Final
+USC Upstate	71	 
+UCF	60	Final
+Memphis	88	 
+Chicago State	54	Final
+Tarleton State	57	 
+Clemson	64	Final
+Georgia Tech	69	 
+Coastal Carolina	64	Final
+Texas State	69	 
+Colgate	86	Final
+American	68	 
+College of Charleston	66	Final
+Elon	64	 
+Coppin State	68	Final
+North Carolina Central	69	 
+Dartmouth	60	Final
+Brown	62	 
+Davidson	78	Final
+George Washington	73	 
+Dayton	61	Final
+Saint Louis	72	 
+Denver	65	Final
+North Dakota State	73	 
+Detroit	74	Final
+Northern Kentucky	68	 
+Dixie State	52	Final
+Stephen F. Austin	81	 
+Duquesne	62	Final
+VCU	71	 
+East Carolina	66	Final
+Tulane	86	 
+ETSU	60	Final
+Wofford	62	 
+Eastern Illinois	56	Final
+Southeast Missouri State	63	 
+Eastern Michigan	71	Final
+Kent State	90	 
+Eastern Washington	72	Final
+Southern Utah	84	 
+Fairleigh Dickinson	82	Final
+Central Connecticut	91	OT
+Florida Gulf Coast	77	Final
+Lipscomb	68	 
+Fordham	69	Final
+St. Joseph's	72	 
+George Mason	78	Final
+La Salle	83	 
+Harvard	55	Final
+Yale	58	 
+Hawaii	65	Final
+UC-Davis	68	 
+Holy Cross	69	Final
+Army	65	 
+Indiana State	72	Final
+Valparaiso	79	2OT
+Jackson State	69	Final
+Mississippi Valley State	65	 
+Jacksonville	58	Final
+Jacksonville State	64	 
+James Madison	78	Final
+Hofstra	85	OT
+Kansas State	75	Final
+TCU	63	 
+Kennesaw State	75	Final
+Bellarmine	70	 
+Liberty	91	Final
+Eastern Kentucky	84	 
+LIU	64	Final
+Wagner	79	 
+Longwood	69	Final
+Charleston Southern	67	 
+Louisiana	58	Final
+Arkansas State	67	 
+Louisiana-Monroe	75	Final
+Little Rock	72	OT
+Louisiana Tech	86	Final
+Florida International	82	 
+Louisville	69	Final
+Syracuse	92	 
+Loyola Marymount	60	Final
+Saint Mary's	71	 
+Maine	60	Final
+Binghamton	69	 
+Marshall	64	Final
+Charlotte	88	 
+Maryland-Eastern Shore	64	Final
+Howard	72	 
+UMass	78	Final
+Rhode Island	67	 
+Mercer	68	Final
+Chattanooga	77	 
+Merrimack	65	Final
+Saint Francis (PA)	64	OT
+Miami (FL)	58	Final
+Virginia	71	 
+Middle Tennessee	75	Final
+UAB	97	 
+Ole Miss	57	Final
+Florida	62	OT
+Mississippi State	55	Final
+Arkansas	63	 
+Missouri	70	Final
+Texas A&M	66	 
+Montana	63	Final
+Idaho State	86	 
+Montana State	78	Final
+Weber State	57	 
+Navy	56	Final
+Loyola (MD)	55	 
+Omaha	85	Final
+North Dakota	92	 
+UNLV	75	Final
+Utah State	90	 
+New Hampshire	77	Final
+UMBC	88	 
+New Mexico	91	Final
+Air Force	77	 
+New Orleans	70	Final
+Incarnate Word	78	 
+UNC Asheville	83	Final
+High Point	91	OT
+North Carolina A&T	62	Final
+Gardner-Webb	69	 
+UNC Greensboro	58	Final
+Furman	56	 
+UNC Wilmington	92	Final
+William & Mary	70	 
+North Florida	71	Final
+North Alabama	58	 
+Northern Colorado	74	Final
+Northern Arizona	71	 
+Northern Illinois	65	Final
+Bowling Green State	87	 
+Northern Iowa	74	Final
+Drake	69	OT
+Northwestern	87	Final
+Nebraska	63	 
+Northwestern State	84	Final
+McNeese State	93	 
+Notre Dame	69	Final
+NC State	57	 
+Oakland	64	Final
+Wright State	75	 
+Oklahoma	55	Final
+Oklahoma State	64	 
+Oregon	80	Final
+Utah	77	 
+Oregon State	63	Final
+Colorado	86	 
+Pacific	64	Final
+Pepperdine	70	 
+Penn	73	Final
+Cornell	68	 
+Prairie View	67	Final
+Bethune-Cookman	68	 
+Presbyterian	78	Final
+Radford	70	 
+Princeton	85	Final
+Columbia	63	 
+Robert Morris	66	Final
+IUPUI	49	 
+Sacramento State	65	Final
+Portland State	73	 
+Sacred Heart	66	Final
+St. Francis (NY)	62	OT
+Samford	93	Final
+The Citadel	107	 
+San Francisco	74	Final
+Portland	71	 
+San Jose State	60	Final
+Boise State	76	 
+Santa Clara	79	Final
+San Diego	66	 
+Seattle	64	Final
+New Mexico State	79	 
+South Alabama	62	Final
+Georgia State	69	 
+South Dakota State	89	Final
+South Dakota	79	 
+Southeastern Louisiana	80	Final
+Houston Baptist	93	 
+Southern Illinois	75	Final
+Illinois State	69	 
+SIU-Edwardsville	59	Final
+Murray State	79	 
+SMU	57	Final
+Wichita State	72	 
+Southern Miss	57	Final
+Florida Atlantic	84	 
+St. John's (NY)	75	Final
+Butler	72	 
+St. Thomas (MN)	66	Final
+Oral Roberts	88	 
+Stetson	75	Final
+Central Arkansas	79	 
+Stony Brook	62	Final
+NJIT	65	 
+Tennessee State	69	Final
+UT-Martin	61	 
+UTEP	72	Final
+Rice	70	 
+Texas-Rio Grande Valley	66	Final
+Abilene Christian	83	 
+UTSA	45	Final
+North Texas	69	 
+Texas Southern	67	Final
+Florida A&M	55	 
+Towson	53	Final
+Northeastern	58	 
+Troy	61	Final
+Georgia Southern	52	 
+Tulsa	58	Final
+Temple	67	 
+Utah Valley	57	Final
+Sam Houston State	54	 
+Vermont	78	Final
+UMass-Lowell	67	 
+Virginia Tech	76	Final
+Pitt	71	 
+Wake Forest	68	Final
+Florida State	60	 
+Washington State	68	Final
+California	64	 
+Western Illinois	82	Final
+Kansas City	91	 
+Western Kentucky	77	Final
+Old Dominion	60	 
+Western Michigan	64	Final
+Ohio	77	 
+Winthrop	69	Final
+Hampton	57	 
+Youngstown State	66	Final
+UIC	64	 
+Houston (6) 	80	Final
+Cincinnati	58	 
+Providence (15) 	71	Final
+Georgetown	52	 
+Maryland	67	Final
+Ohio State (16) 	82	 
+Akron	71	Final
+Miami (OH)	59	 
+Green Bay	55	Final
+Purdue-Fort Wayne	71	 
+Iona	71	Final
+Niagara	80	 
+Loyola (IL)	71	Final
+Missouri State	62	 
+Manhattan	70	Final
+Canisius	77	 
+Marist	50	Final
+St. Peter's	66	 
+Milwaukee	71	Final
+Cleveland State	84	 
+Minnesota	59	Final
+Iowa	71	 
+Monmouth	76	Final
+Quinnipiac	63	 
+Nevada	63	Final
+San Diego State	65	 
+Siena	62	Final
+Fairfield	56	 
+Washington	69	Final
+Stanford	87	 
+Wyoming	61	Final
+Fresno State	59	 
+Arizona (4) 	91	Final
+Arizona State	79	 
+Virginia	69	Final
+Duke (7) 	68	 
+Kansas (8) 	76	Final
+Texas (20) 	79	 
+Alabama A&M	50	Final
+Grambling	58	 
+Alabama State	58	Final
+Southern	72	 
+Alcorn State	79	Final
+Mississippi Valley State	71	 
+Austin Peay	58	Final
+Belmont	72	 
+Charlotte	81	Final
+Florida International	68	 
+Chattanooga	74	Final
+Mercer	72	OT
+Eastern Illinois	58	Final
+Tennessee Tech	84	 
+Furman	71	Final
+ETSU	75	 
+George Mason	59	Final
+Richmond	62	 
+Hartford	75	Final
+UMass-Lowell	85	 
+Holy Cross	60	Final
+Colgate	87	 
+Howard	69	Final
+Delaware State	64	 
+Jackson State	60	Final
+Arkansas-Pine Bluff	47	 
+James Madison	66	Final
+Drexel	72	 
+Lafayette	44	Final
+Navy	68	 
+Montana State	72	Final
+Idaho State	54	 
+New Hampshire	67	Final
+Stony Brook	65	 
+North Carolina Central	68	Final
+South Carolina State	74	 
+UNC Greensboro	68	Final
+Western Carolina	49	 
+UNC Wilmington	71	Final
+Hofstra	73	 
+Northern Arizona	60	Final
+Northern Colorado	82	 
+Pitt	47	Final
+Virginia Tech	74	 
+Prairie View	60	Final
+Florida A&M	61	 
+Presbyterian	69	Final
+Hampton	74	 
+South Dakota	74	Final
+North Dakota State	76	 
+Southeast Missouri State	76	Final
+SIU-Edwardsville	47	 
+Southern Utah	67	Final
+Montana	78	 
+Temple	49	Final
+South Florida	52	 
+UTEP	58	Final
+North Texas	66	 
+UTSA	75	Final
+Middle Tennessee	84	 
+Texas Southern	66	Final
+Bethune-Cookman	63	 
+Toccoa Falls	60	Final
+Charleston Southern	97	 
+Auburn (1) 	76	Final
+Arkansas	80	OT
+Illinois (13) 	68	Final
+Purdue (3) 	84	 
+Kentucky (5) 	86	Final
+South Carolina	76	 
+UCLA (12) 	79	Final
+Stanford	70	 
+Wisconsin (14) 	70	Final
+Michigan State (17) 	62	 
+Villanova (15) 	75	Final
+St. John's (NY)	69	 
+Marquette (18) 	72	Final
+UConn (24) 	80	 
+Pacific	68	Final
+USC (21) 	74	 
+Saint Mary's (22) 	72	Final
+Santa Clara	77	 
+Air Force	44	Final
+UNLV	78	 
+Akron	70	Final
+Northern Illinois	64	 
+Bowling Green State	68	Final
+Kent State	76	 
+Butler	52	Final
+Creighton	54	 
+Cal State Fullerton	61	Final
+Long Beach State	71	 
+Central Michigan	89	Final
+Ball State	85	OT
+Colorado State	82	Final
+Nevada	72	 
+East Carolina	73	Final
+Tulsa	71	 
+Eastern Michigan	64	Final
+Buffalo	102	 
+Evansville	65	Final
+Indiana State	56	 
+Fordham	51	Final
+St. Bonaventure	76	 
+Gallaudet	38	Final
+Howard	96	 
+Indiana	51	Final
+Northwestern	59	 
+Iowa State	63	Final
+West Virginia	79	 
+Jarvis Christian	63	Final
+Rice	98	 
+Lipscomb	69	Final
+Liberty	78	 
+LSU	76	Final
+Texas A&M	68	 
+Manhattan	67	Final
+Rider	76	 
+Marist	83	Final
+Monmouth	58	 
+Michigan	58	Final
+Penn State	57	 
+Missouri	62	Final
+Vanderbilt	70	 
+Kansas City	76	Final
+St. Thomas (MN)	67	 
+UNC	79	Final
+Clemson	77	 
+Ohio	62	Final
+Toledo	77	 
+Oklahoma State	73	Final
+TCU	77	 
+Old Dominion	62	Final
+Florida Atlantic	81	 
+Portland	69	Final
+San Francisco	68	 
+Rhode Island	64	Final
+VCU	73	 
+Saint Louis	75	Final
+La Salle	57	 
+Syracuse	73	Final
+Boston College	64	 
+Utah State	76	Final
+Wyoming	78	OT
+Western Michigan	57	Final
+Miami (OH)	62	 
+Wichita State	66	Final
+UCF	71	 
+Houston (6) 	83	Final
+SMU	85	 
+Texas Tech (9) 	55	Final
+Oklahoma	70	 
+Baylor (10) 	75	Final
+Kansas State	60	 
+Ohio State (16) 	64	Final
+Rutgers	66	 
+Tennessee (19) 	72	Final
+Mississippi State	63	 
+Xavier (25) 	71	Final
+Seton Hall	73	 
+Alabama	97	Final
+Ole Miss	83	 
+American	66	Final
+Bucknell	68	 
+Army	74	Final
+Boston University	75	 
+Bellarmine	73	Final
+North Florida	70	 
+Binghamton	51	Final
+Vermont	82	 
+California	63	Final
+Oregon State	61	 
+Central Arkansas	72	Final
+Kennesaw State	83	 
+Charleston Southern	51	Final
+North Carolina A&T	62	 
+Cincinnati	70	Final
+South Florida	59	 
+Columbia	75	Final
+Cornell	88	 
+Detroit	79	Final
+Robert Morris	62	 
+Duquesne	54	Final
+Dayton	75	 
+Eastern Kentucky	68	Final
+Jacksonville	81	 
+Gardner-Webb	57	Final
+Campbell	45	 
+George Washington	77	Final
+UMass	68	 
+Georgetown	74	Final
+DePaul	82	 
+Georgia	63	Final
+Florida	72	 
+Georgia Tech	70	Final
+Miami (FL)	79	 
+Hampton	53	Final
+UNC Asheville	69	 
+Hartford	64	Final
+UMBC	68	 
+High Point	79	Final
+Presbyterian	70	 
+Jacksonville State	57	Final
+Stetson	63	 
+Lehigh	62	Final
+Colgate	78	 
+Louisville	57	Final
+Notre Dame	63	 
+Loyola (IL)	61	Final
+Bradley	68	 
+Loyola (MD)	64	Final
+Holy Cross	68	 
+Maine	73	Final
+Albany (NY)	63	 
+Maryland-Eastern Shore	58	Final
+Delaware State	50	 
+UMass-Lowell	85	Final
+Stony Brook	87	 
+Minnesota	65	Final
+Nebraska	78	 
+Missouri State	66	Final
+Drake	62	 
+NJIT	60	Final
+New Hampshire	55	 
+North Alabama	60	Final
+Florida Gulf Coast	92	 
+Northern Kentucky	75	Final
+Milwaukee	39	 
+Oakland	71	Final
+Youngstown State	78	 
+Pitt	56	Final
+Florida State	51	 
+Quinnipiac	69	Final
+Fairfield	60	 
+Radford	48	Final
+Winthrop	58	 
+Richmond	84	Final
+George Mason	87	OT
+St. Joseph's	67	Final
+Davidson	73	OT
+San Diego State	72	Final
+San Jose State	62	 
+Southern Illinois	44	Final
+Northern Iowa	53	 
+Tulane	69	Final
+Memphis	80	 
+Valparaiso	75	Final
+Illinois State	78	OT
+Wake Forest	69	Final
+NC State	51	 
+Western Carolina	47	Final
+Chattanooga	65	 
+Wofford	60	Final
+Samford	65	OT
+Wright State	79	Final
+Green Bay	62	 
+Yale	62	Final
+Harvard	59	 
