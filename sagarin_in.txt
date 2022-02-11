@@ -1,0 +1,466 @@
+College Basketball 2021-2022    Div I games only    through games of 2022 February 9 Wednesday                                                  
+                                RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR   | GOLDEN_MEAN  |  RECENT    
+                HOME ADVANTAGE=[  2.53]                                               [  2.52]       [  2.55]       [  2.52]
+   1  Gonzaga                 =  95.32   19   2   72.73( 137)    3   2  |    6   2  |   95.64    1 |   94.87    1 |   92.79    3  WEST COAST
+   2  Purdue                  =  92.10   21   3   78.99(  27)    7   1  |    8   2  |   91.92    3 |   92.16    2 |   93.81    2  BIG TEN
+   3  Arizona                 =  91.76   20   2   76.62(  68)    3   2  |    4   2  |   91.98    2 |   91.01    5 |   91.48    5  PAC-12
+   4  Kansas                  =  91.33   19   4   80.54(   8)    3   3  |    5   3  |   91.21    5 |   91.75    3 |   89.95    8  BIG 12
+   5  Baylor                  =  91.31   20   4   79.21(  22)    2   3  |    8   3  |   91.53    4 |   91.17    4 |   88.42   12  BIG 12
+   6  Kentucky                =  91.04   20   4   77.04(  60)    3   3  |    5   3  |   90.84    7 |   91.00    6 |   94.09    1  SOUTHEASTERN
+   7  Houston                 =  90.99   20   3   74.97(  93)    0   2  |    1   2  |   91.15    6 |   90.87    7 |   88.50   10  AMER. ATHLETIC
+   8  Villanova               =  90.20   18   6   80.73(   6)    4   3  |    5   5  |   90.43    8 |   89.37   10 |   90.12    6  BIG EAST
+   9  Duke                    =  90.00   19   4   76.25(  71)    2   1  |    5   1  |   89.79    9 |   90.55    8 |   89.37    9  ATLANTIC COAST
+  10  Auburn                  =  89.96   22   2   78.86(  28)    4   2  |    8   2  |   89.67   10 |   90.35    9 |   91.85    4  SOUTHEASTERN
+College Basketball 2021-2022    Div I games only    through games of 2022 February 9 Wednesday                                                  
+                                RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR   | GOLDEN_MEAN  |  RECENT    
+                HOME ADVANTAGE=[  2.53]                                               [  2.52]       [  2.55]       [  2.52]
+  11  Tennessee               =  89.05   17   6   80.20(  14)    2   6  |    5   6  |   89.33   11 |   88.20   14 |   88.33   13  SOUTHEASTERN
+  12  Illinois                =  89.03   17   6   80.54(   9)    4   3  |    5   4  |   89.25   12 |   88.34   12 |   88.30   14  BIG TEN
+  13  UCLA                    =  88.95   17   4   78.19(  33)    2   2  |    3   3  |   88.81   14 |   89.36   11 |   87.79   15  PAC-12
+  14  Texas Tech              =  88.64   18   6   77.96(  37)    4   2  |    7   4  |   88.90   13 |   88.30   13 |   85.91   24  BIG 12
+  15  Texas                   =  88.13   18   6   76.70(  66)    2   2  |    5   3  |   88.10   16 |   87.71   15 |   90.03    7  BIG 12
+  16  Connecticut             =  87.25   16   6   77.05(  59)    1   2  |    3   5  |   87.41   17 |   86.71   18 |   86.40   22  BIG EAST
+  17  LSU                     =  87.01   17   7   79.11(  23)    2   4  |    4   5  |   88.25   15 |   86.57   19 |   78.70   91  SOUTHEASTERN
+  18  Ohio State              =  86.64   14   6   80.17(  15)    2   3  |    3   5  |   86.47   20 |   87.04   17 |   85.92   23  BIG TEN
+  19  Iowa                    =  86.44   15   7   76.80(  65)    0   4  |    1   4  |   86.90   18 |   85.51   25 |   83.97   34  BIG TEN
+  20  Alabama                 =  86.44   15   9   81.54(   1)    5   3  |    6   5  |   86.50   19 |   86.44   21 |   84.42   32  SOUTHEASTERN
+College Basketball 2021-2022    Div I games only    through games of 2022 February 9 Wednesday                                                  
+                                RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR   | GOLDEN_MEAN  |  RECENT    
+                HOME ADVANTAGE=[  2.53]                                               [  2.52]       [  2.55]       [  2.52]
+  21  Arkansas                =  86.15   19   5   75.87(  79)    2   0  |    4   2  |   86.08   21 |   85.79   22 |   88.49   11  SOUTHEASTERN
+  22  Michigan State          =  85.80   17   6   79.91(  16)    3   4  |    4   4  |   85.76   22 |   86.51   20 |   82.45   46  BIG TEN
+  23  Wisconsin               =  85.59   19   4   81.00(   3)    5   3  |    8   4  |   84.96   27 |   87.32   16 |   87.31   19  BIG TEN
+  24  Michigan                =  85.31   12   9   80.36(  10)    0   4  |    2   6  |   85.36   23 |   85.04   26 |   84.56   30  BIG TEN
+  25  Xavier-Ohio             =  85.01   16   7   78.72(  29)    1   2  |    3   5  |   85.22   24 |   84.91   27 |   81.63   56  BIG EAST
+  26  Southern California     =  84.93   20   4   75.09(  90)    0   1  |    2   2  |   84.77   28 |   85.67   23 |   82.68   43  PAC-12
+  27  Indiana                 =  84.72   16   7   77.37(  51)    2   4  |    2   4  |   85.04   25 |   84.52   28 |   80.66   67  BIG TEN
+  28  Seton Hall              =  84.72   14   7   79.70(  17)    4   2  |    4   5  |   85.02   26 |   84.12   33 |   82.34   47  BIG EAST
+  29  Oregon                  =  84.29   14   7   77.46(  48)    1   2  |    2   4  |   84.17   29 |   84.25   31 |   85.09   27  PAC-12
+  30  North Carolina          =  84.21   17   7   78.00(  35)    1   4  |    2   5  |   84.17   30 |   84.51   29 |   82.07   50  ATLANTIC COAST
+College Basketball 2021-2022    Div I games only    through games of 2022 February 9 Wednesday                                                  
+                                RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR   | GOLDEN_MEAN  |  RECENT    
+                HOME ADVANTAGE=[  2.53]                                               [  2.52]       [  2.55]       [  2.52]
+  31  Marquette               =  84.20   16   8   81.43(   2)    4   5  |    8   6  |   83.93   34 |   84.28   30 |   87.78   16  BIG EAST
+  32  Saint Mary's-Cal.       =  84.18   18   5   75.51(  85)    0   1  |    2   4  |   84.15   31 |   84.24   32 |   83.12   40  WEST COAST
+  33  Providence              =  84.11   20   2   77.54(  46)    4   0  |    6   1  |   83.46   36 |   85.60   24 |   87.56   18  BIG EAST
+  34  Oklahoma                =  83.80   14  10   79.40(  20)    2   5  |    4   7  |   83.76   35 |   83.55   36 |   84.53   31  BIG 12
+  35  Virginia Tech           =  83.55   14  10   76.81(  64)    0   2  |    0   5  |   84.03   32 |   82.35   45 |   81.92   51  ATLANTIC COAST
+  36  Florida                 =  83.54   16   8   76.92(  61)    1   4  |    2   5  |   83.97   33 |   82.59   42 |   81.19   62  SOUTHEASTERN
+  37  Wake Forest             =  83.27   20   5   75.33(  87)    0   2  |    2   2  |   83.22   38 |   83.28   37 |   82.72   42  ATLANTIC COAST
+  38  Boise State             =  83.15   17   5   75.68(  83)    0   0  |    2   1  |   83.13   40 |   82.53   43 |   86.45   21  MOUNTAIN WEST
+  39  Memphis                 =  83.08   13   8   76.38(  70)    1   0  |    3   0  |   83.21   39 |   82.77   40 |   81.34   59  AMER. ATHLETIC
+  40  Colorado State          =  82.94   17   3   73.51( 117)    0   0  |    3   1  |   82.74   45 |   83.79   34 |   80.75   66  MOUNTAIN WEST
+College Basketball 2021-2022    Div I games only    through games of 2022 February 9 Wednesday                                                  
+                                RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR   | GOLDEN_MEAN  |  RECENT    
+                HOME ADVANTAGE=[  2.53]                                               [  2.52]       [  2.55]       [  2.52]
+  41  Loyola-Chicago          =  82.89   17   5   74.23( 100)    0   2  |    1   2  |   83.09   41 |   82.63   41 |   80.21   71  MISSOURI VALLEY
+  42  BYU                     =  82.83   15   8   77.63(  43)    0   2  |    4   3  |   82.93   43 |   83.77   35 |   77.06  105  WEST COAST
+  43  San Diego State         =  82.82   14   6   75.92(  76)    0   1  |    2   5  |   82.77   44 |   83.21   38 |   80.50   69  MOUNTAIN WEST
+  44  Saint Louis             =  82.79   16   6   74.17( 101)    0   1  |    1   3  |   82.95   42 |   81.92   50 |   84.18   33  ATLANTIC 10
+  45  Mississippi State       =  82.79   14   9   77.13(  58)    2   4  |    2   6  |   83.37   37 |   81.80   52 |   78.88   88  SOUTHEASTERN
+  46  West Virginia           =  82.71   14   9   79.36(  21)    1   7  |    2   9  |   82.62   47 |   83.07   39 |   81.02   63  BIG 12
+  47  UAB                     =  82.42   16   5   71.51( 174)    0   0  |    1   2  |   82.64   46 |   81.67   55 |   81.75   54  CONFERENCE USA
+  48  Washington State        =  82.31   14   7   74.45(  97)    0   0  |    0   2  |   82.52   48 |   81.25   58 |   83.88   35  PAC-12
+  49  San Francisco           =  81.98   18   6   74.15( 102)    0   1  |    2   4  |   81.80   53 |   82.33   46 |   81.81   53  WEST COAST
+  50  TCU                     =  81.90   16   5   76.63(  67)    1   2  |    3   2  |   81.60   56 |   82.35   44 |   83.23   37  BIG 12
+College Basketball 2021-2022    Div I games only    through games of 2022 February 9 Wednesday                                                  
+                                RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR   | GOLDEN_MEAN  |  RECENT    
+                HOME ADVANTAGE=[  2.53]                                               [  2.52]       [  2.55]       [  2.52]
+  51  SMU                     =  81.84   17   5   74.38(  98)    1   0  |    2   1  |   81.63   54 |   82.15   48 |   82.20   48  AMER. ATHLETIC
+  52  Oklahoma State          =  81.75   11  12   80.21(  13)    2   5  |    4   8  |   81.84   50 |   81.63   56 |   79.78   75  BIG 12
+  53  Utah State              =  81.74   14  10   75.97(  75)    0   1  |    2   5  |   81.80   52 |   80.94   63 |   84.57   29  MOUNTAIN WEST
+  54  Northwestern            =  81.66   11  10   79.05(  24)    1   6  |    2   8  |   81.88   49 |   80.89   64 |   81.20   61  BIG TEN
+  55  Syracuse                =  81.61   13  11   77.98(  36)    0   3  |    2   4  |   81.81   51 |   80.67   66 |   82.57   45  ATLANTIC COAST
+  56  Iowa State              =  81.60   16   8   79.02(  25)    4   5  |    5   8  |   81.57   57 |   82.05   49 |   78.72   90  BIG 12
+  57  Virginia                =  81.48   15   9   76.84(  63)    1   2  |    3   4  |   81.23   59 |   81.71   53 |   83.17   39  ATLANTIC COAST
+  58  Dayton                  =  81.38   16   8   73.68( 112)    1   0  |    3   1  |   81.60   55 |   80.27   73 |   83.19   38  ATLANTIC 10
+  59  Notre Dame              =  81.24   16   7   77.77(  40)    1   2  |    2   5  |   80.80   61 |   81.88   51 |   84.70   28  ATLANTIC COAST
+  60  Belmont                 =  81.08   19   5   70.47( 207)    0   1  |    1   1  |   81.39   58 |   80.29   72 |   79.42   79  OHIO VALLEY
+College Basketball 2021-2022    Div I games only    through games of 2022 February 9 Wednesday                                                  
+                                RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR   | GOLDEN_MEAN  |  RECENT    
+                HOME ADVANTAGE=[  2.53]                                               [  2.52]       [  2.55]       [  2.52]
+  61  Maryland                =  81.01   11  12   79.66(  18)    1   6  |    2   8  |   81.00   60 |   81.17   59 |   79.05   86  BIG TEN
+  62  St. John's              =  80.79   13  10   76.54(  69)    0   4  |    1   8  |   80.60   65 |   80.96   62 |   81.84   52  BIG EAST
+  63  Penn State              =  80.61    9  11   80.90(   5)    1   8  |    2   9  |   80.78   62 |   80.07   77 |   79.66   77  BIG TEN
+  64  Creighton               =  80.61   14   8   78.29(  32)    2   3  |    4   5  |   80.13   71 |   82.26   47 |   79.15   83  BIG EAST
+  65  Kansas State            =  80.61   12  11   80.30(  11)    2   6  |    3  10  |   80.56   66 |   80.34   70 |   81.68   55  BIG 12
+  66  Rutgers                 =  80.57   14   9   77.40(  49)    5   1  |    5   2  |   79.98   73 |   81.60   57 |   85.46   25  BIG TEN
+  67  Davidson                =  80.53   19   3   73.10( 128)    1   0  |    1   1  |   79.89   76 |   81.71   54 |   85.45   26  ATLANTIC 10
+  68  Murray State            =  80.47   19   2   68.39( 292)    0   1  |    1   1  |   80.16   70 |   80.40   69 |   87.22   20  OHIO VALLEY
+  69  Wyoming                 =  80.41   19   3   74.70(  94)    0   1  |    2   2  |   79.98   74 |   80.71   65 |   87.74   17  MOUNTAIN WEST
+  70  Clemson                 =  80.38   12  11   77.16(  57)    0   1  |    0   3  |   80.77   63 |   80.09   76 |   75.29  132  ATLANTIC COAST
+College Basketball 2021-2022    Div I games only    through games of 2022 February 9 Wednesday                                                  
+                                RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR   | GOLDEN_MEAN  |  RECENT    
+                HOME ADVANTAGE=[  2.53]                                               [  2.52]       [  2.55]       [  2.52]
+  71  Florida State           =  80.33   13  10   77.81(  39)    1   1  |    1   5  |   80.77   64 |   80.97   61 |   71.27  188  ATLANTIC COAST
+  72  VCU(Va. Commonwealth)   =  80.28   15   7   75.90(  78)    0   2  |    0   2  |   80.34   68 |   80.25   74 |   78.14   95  ATLANTIC 10
+  73  Missouri State          =  80.28   17   8   72.88( 132)    0   0  |    1   3  |   80.51   67 |   79.36   85 |   80.43   70  MISSOURI VALLEY
+  74  Miami-Florida           =  80.01   17   7   77.38(  50)    1   1  |    4   1  |   79.54   82 |   81.06   60 |   81.31   60  ATLANTIC COAST
+  75  Toledo                  =  79.94   18   5   71.70( 167)    0   1  |    0   1  |   79.93   75 |   79.43   84 |   82.10   49  MAC
+  76  Wichita State           =  79.91   12   9   75.91(  77)    0   2  |    0   3  |   79.99   72 |   79.79   79 |   77.87   98  AMER. ATHLETIC
+  77  South Dakota State      =  79.79   19   4   70.17( 221)    0   1  |    1   1  |   79.60   80 |   79.95   78 |   80.85   65  SUMMIT LEAGUE
+  78  Cincinnati              =  79.71   15   7   73.22( 124)    1   3  |    1   4  |   79.46   83 |   80.20   75 |   79.87   74  AMER. ATHLETIC
+  79  Colorado                =  79.70   14   9   76.22(  72)    0   4  |    2   7  |   79.57   81 |   80.54   67 |   76.40  114  PAC-12
+  80  Texas A&M               =  79.68   14   9   76.04(  73)    1   6  |    1   7  |   80.21   69 |   79.44   83 |   72.67  165  SOUTHEASTERN
+College Basketball 2021-2022    Div I games only    through games of 2022 February 9 Wednesday                                                  
+                                RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR   | GOLDEN_MEAN  |  RECENT    
+                HOME ADVANTAGE=[  2.53]                                               [  2.52]       [  2.55]       [  2.52]
+  81  Richmond                =  79.66   16   9   75.06(  91)    0   0  |    0   2  |   79.66   78 |   79.49   82 |   79.35   81  ATLANTIC 10
+  82  Fresno State            =  79.62   15   7   73.26( 122)    0   0  |    0   3  |   79.82   77 |   78.77   91 |   80.01   73  MOUNTAIN WEST
+  83  St. Bonaventure         =  79.57   13   7   75.23(  89)    0   1  |    2   2  |   79.36   84 |   80.52   68 |   76.95  108  ATLANTIC 10
+  84  Vanderbilt              =  79.41   13  10   77.21(  54)    2   3  |    3   5  |   79.62   79 |   78.75   92 |   78.28   94  SOUTHEASTERN
+  85  Santa Clara             =  79.34   17   8   73.64( 113)    0   1  |    3   4  |   79.20   85 |   79.02   89 |   82.58   44  WEST COAST
+  86  North Texas             =  79.30   15   4   72.87( 135)    0   1  |    0   2  |   78.94   88 |   79.60   81 |   83.36   36  CONFERENCE USA
+  87  Stanford                =  79.24   14   9   79.00(  26)    0   5  |    4   6  |   78.74   90 |   80.30   71 |   80.91   64  PAC-12
+  88  Chattanooga             =  79.10   19   5   71.32( 184)    0   0  |    0   0  |   79.04   87 |   79.09   86 |   78.73   89  SOUTHERN
+  89  New Mexico State        =  79.04   16   3   72.36( 142)    0   0  |    1   0  |   78.63   91 |   79.71   80 |   81.37   57  WESTERN ATHLETIC
+  90  Mississippi             =  78.89   12  12   77.93(  38)    1   4  |    4   8  |   79.06   86 |   78.45   94 |   77.21  102  SOUTHEASTERN
+College Basketball 2021-2022    Div I games only    through games of 2022 February 9 Wednesday                                                  
+                                RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR   | GOLDEN_MEAN  |  RECENT    
+                HOME ADVANTAGE=[  2.53]                                               [  2.52]       [  2.55]       [  2.52]
+  91  Furman                  =  78.64   16   9   71.82( 160)    0   0  |    0   2  |   78.79   89 |   78.13   99 |   77.61   99  SOUTHERN
+  92  Central Florida(UCF)    =  78.45   14   8   75.39(  86)    1   2  |    2   4  |   78.30   95 |   79.07   87 |   76.25  115  AMER. ATHLETIC
+  93  Minnesota               =  78.40   11  10   79.46(  19)    1   8  |    2   9  |   78.43   92 |   79.02   88 |   73.48  150  BIG TEN
+  94  Drake                   =  78.35   15   8   72.57( 140)    0   1  |    1   1  |   78.40   93 |   78.30   95 |   76.41  113  MISSOURI VALLEY
+  95  South Carolina          =  78.30   12  10   78.37(  31)    0   5  |    1   7  |   78.38   94 |   78.21   97 |   76.14  118  SOUTHEASTERN
+  96  DePaul                  =  78.28   12  10   77.49(  47)    1   4  |    2   7  |   78.22   96 |   77.94  100 |   80.07   72  BIG EAST
+  97  Vermont                 =  78.25   18   4   69.00( 262)    0   0  |    0   1  |   77.87   98 |   78.56   93 |   82.82   41  AMERICA EAST
+  98  Louisiana Tech          =  78.21   14   6   71.24( 187)    0   2  |    0   3  |   78.21   97 |   78.17   98 |   76.96  107  CONFERENCE USA
+  99  Iona College            =  77.86   19   4   71.48( 175)    1   1  |    1   2  |   77.57  103 |   78.27   96 |   79.11   84  METRO ATLANTIC
+ 100  Ohio                    =  77.53   18   4   69.38( 249)    0   2  |    0   2  |   76.92  107 |   79.00   90 |   79.05   85  MAC
+College Basketball 2021-2022    Div I games only    through games of 2022 February 9 Wednesday                                                  
+                                RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR   | GOLDEN_MEAN  |  RECENT    
+                HOME ADVANTAGE=[  2.53]                                               [  2.52]       [  2.55]       [  2.52]
+ 101  Northern Iowa           =  77.44   13   9   73.97( 104)    0   1  |    0   1  |   77.40  105 |   76.83  103 |   80.62   68  MISSOURI VALLEY
+ 102  Louisville              =  77.41   11  13   77.69(  41)    0   2  |    2   3  |   77.67  100 |   77.73  101 |   70.39  207  ATLANTIC COAST
+ 103  George Mason            =  77.18   12  10   73.88( 106)    0   1  |    0   2  |   77.61  101 |   75.81  114 |   76.49  112  ATLANTIC 10
+ 104  Buffalo                 =  77.17   10   8   71.88( 157)    0   1  |    0   1  |   77.47  104 |   76.49  104 |   74.82  136  MAC
+ 105  Bradley                 =  77.17   13  11   73.09( 129)    0   0  |    1   2  |   77.58  102 |   75.43  117 |   79.39   80  MISSOURI VALLEY
+ 106  Utah                    =  77.06    9  15   77.36(  52)    0   2  |    0  10  |   77.80   99 |   75.87  111 |   70.89  195  PAC-12
+ 107  Arizona State           =  76.95    7  14   80.99(   4)    1   3  |    2   9  |   77.22  106 |   76.32  108 |   74.66  139  PAC-12
+ 108  Grand Canyon            =  76.54   14   5   68.87( 267)    0   0  |    1   0  |   76.48  109 |   76.33  107 |   77.33  100  WESTERN ATHLETIC
+ 109  Butler                  =  76.53    9  13   80.28(  12)    0   8  |    1  10  |   76.05  113 |   77.56  102 |   77.92   97  BIG EAST
+ 110  Liberty                 =  76.52   15   7   69.57( 239)    0   1  |    0   2  |   76.54  108 |   75.85  112 |   78.90   87  ATLANTIC SUN
+College Basketball 2021-2022    Div I games only    through games of 2022 February 9 Wednesday                                                  
+                                RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR   | GOLDEN_MEAN  |  RECENT    
+                HOME ADVANTAGE=[  2.53]                                               [  2.52]       [  2.55]       [  2.52]
+ 111  Temple                  =  76.43   13   8   74.37(  99)    0   1  |    0   3  |   76.40  111 |   76.21  109 |   76.83  109  AMER. ATHLETIC
+ 112  NC State                =  76.35   10  15   77.58(  45)    0   2  |    1   5  |   76.43  110 |   76.45  106 |   73.03  155  ATLANTIC COAST
+ 113  UNLV                    =  76.13   13  10   73.80( 108)    0   2  |    1   5  |   75.96  114 |   75.88  110 |   79.49   78  MOUNTAIN WEST
+ 114  Towson                  =  75.81   17   7   70.99( 193)    0   1  |    0   2  |   75.71  117 |   75.50  116 |   78.01   96  COLONIAL
+ 115  Missouri                =  75.81    8  14   80.56(   7)    1   6  |    1   7  |   75.51  118 |   76.47  105 |   75.76  121  SOUTHEASTERN
+ 116  Tulane                  =  75.71   10  11   75.26(  88)    0   1  |    1   2  |   76.08  112 |   74.40  129 |   75.57  123  AMER. ATHLETIC
+ 117  UC Irvine               =  75.44    8   7   73.72( 110)    0   0  |    1   1  |   75.75  116 |   74.79  124 |   72.46  168  BIG WEST
+ 118  Rhode Island            =  75.43   11  10   72.08( 153)    0   0  |    0   1  |   75.76  115 |   75.21  120 |   69.83  215  ATLANTIC 10
+ 119  Washington              =  75.36   12   9   75.52(  84)    0   1  |    0   2  |   74.97  121 |   75.81  115 |   78.63   92  PAC-12
+ 120  Georgia Tech            =  75.25    9  13   76.89(  62)    0   3  |    0   8  |   74.93  122 |   75.83  113 |   76.17  117  ATLANTIC COAST
+College Basketball 2021-2022    Div I games only    through games of 2022 February 9 Wednesday                                                  
+                                RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR   | GOLDEN_MEAN  |  RECENT    
+                HOME ADVANTAGE=[  2.53]                                               [  2.52]       [  2.55]       [  2.52]
+ 121  Western Kentucky        =  75.21   10  11   73.32( 120)    0   1  |    0   3  |   75.07  120 |   75.17  121 |   76.50  111  CONFERENCE USA
+ 122  Wofford                 =  75.04   12  11   71.94( 154)    0   0  |    0   0  |   75.38  119 |   74.27  132 |   72.27  174  SOUTHERN
+ 123  Nevada                  =  74.74    8  13   77.60(  44)    0   1  |    0   6  |   74.61  124 |   75.38  119 |   71.98  180  MOUNTAIN WEST
+ 124  Stephen F. Austin       =  74.74   11   8   72.11( 152)    0   1  |    0   2  |   74.63  123 |   74.40  130 |   77.24  101  WESTERN ATHLETIC
+ 125  Nebraska                =  74.43    7  17   78.49(  30)    0   8  |    0  10  |   74.47  126 |   74.33  131 |   72.71  164  BIG TEN
+ 126  Wagner                  =  74.34   15   2   65.77( 353)    0   0  |    0   1  |   73.67  134 |   75.42  118 |   79.26   82  NORTHEAST
+ 127  Oral Roberts            =  74.33   13   8   67.95( 305)    0   0  |    0   2  |   74.47  127 |   73.77  136 |   73.67  148  SUMMIT LEAGUE
+ 128  Hofstra                 =  74.31   13   9   73.28( 121)    1   1  |    1   1  |   74.03  130 |   74.51  126 |   76.72  110  COLONIAL
+ 129  California              =  74.31   10  15   77.21(  55)    0   3  |    0   9  |   74.52  125 |   73.81  135 |   72.03  179  PAC-12
+ 130  Utah Valley             =  74.24   13   7   70.44( 209)    0   0  |    1   1  |   74.04  129 |   74.48  127 |   74.96  133  WESTERN ATHLETIC
+College Basketball 2021-2022    Div I games only    through games of 2022 February 9 Wednesday                                                  
+                                RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR   | GOLDEN_MEAN  |  RECENT    
+                HOME ADVANTAGE=[  2.53]                                               [  2.52]       [  2.55]       [  2.52]
+ 131  Southern Illinois       =  73.91   11  13   72.88( 133)    0   0  |    0   3  |   74.23  128 |   72.88  147 |   72.95  158  MISSOURI VALLEY
+ 132  Florida Atlantic        =  73.77   12   9   69.48( 243)    0   0  |    0   1  |   73.67  133 |   73.10  144 |   78.53   93  CONFERENCE USA
+ 133  Yale                    =  73.75   12   9   71.57( 173)    0   1  |    0   3  |   73.15  143 |   74.98  122 |   75.81  120  IVY LEAGUE
+ 134  Weber State             =  73.74   16   6   69.14( 261)    0   0  |    0   2  |   73.30  141 |   74.60  125 |   74.92  135  BIG SKY
+ 135  Akron                   =  73.73   14   6   69.18( 259)    0   1  |    0   1  |   73.29  142 |   74.41  128 |   76.24  116  MAC
+ 136  Morehead State          =  73.68   16   6   68.91( 264)    0   2  |    0   4  |   72.91  148 |   74.90  123 |   79.73   76  OHIO VALLEY
+ 137  Pittsburgh              =  73.63    9  16   77.20(  56)    0   0  |    0   4  |   73.68  132 |   73.39  139 |   72.73  163  ATLANTIC COAST
+ 138  Colgate                 =  73.52   12  11   68.87( 266)    0   0  |    0   0  |   73.61  135 |   72.68  154 |   75.47  129  PATRIOT
+ 139  Boston College          =  73.50    9  13   75.71(  80)    0   0  |    1   4  |   73.55  137 |   73.28  142 |   72.35  172  ATLANTIC COAST
+ 140  South Alabama           =  73.36   11   8   70.85( 200)    0   1  |    0   1  |   73.59  136 |   72.76  151 |   71.42  185  SUN BELT
+College Basketball 2021-2022    Div I games only    through games of 2022 February 9 Wednesday                                                  
+                                RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR   | GOLDEN_MEAN  |  RECENT    
+                HOME ADVANTAGE=[  2.53]                                               [  2.52]       [  2.55]       [  2.52]
+ 141  Princeton               =  73.34   14   5   68.86( 268)    0   0  |    0   0  |   73.02  145 |   74.18  133 |   72.76  162  IVY LEAGUE
+ 142  Kent State              =  73.31   12   9   70.40( 212)    0   1  |    0   2  |   73.06  144 |   73.42  138 |   75.52  125  MAC
+ 143  Monmouth-NJ             =  73.30   15   8   71.46( 177)    0   0  |    0   0  |   73.50  138 |   73.34  141 |   67.73  245  METRO ATLANTIC
+ 144  Montana State           =  73.29   16   5   67.18( 335)    0   0  |    0   0  |   72.55  153 |   74.15  134 |   81.35   58  BIG SKY
+ 145  UC Santa Barbara        =  73.21    7   9   67.57( 321)    0   0  |    0   2  |   73.72  131 |   72.11  167 |   69.30  225  BIG WEST
+ 146  Tulsa                   =  73.09    7  15   74.65(  95)    0   1  |    0   4  |   73.46  139 |   72.31  163 |   69.67  216  AMER. ATHLETIC
+ 147  Georgetown              =  73.09    6  16   77.22(  53)    0   2  |    0   8  |   73.41  140 |   72.62  157 |   68.49  233  BIG EAST
+ 148  UC Riverside            =  72.93   10   7   71.29( 186)    0   0  |    0   3  |   72.81  149 |   72.96  146 |   73.24  152  BIG WEST
+ 149  Abilene Christian       =  72.92   12   7   69.24( 257)    0   0  |    0   0  |   72.73  150 |   73.25  143 |   72.88  160  WESTERN ATHLETIC
+ 150  Oakland-Mich.           =  72.86   14   8   71.14( 188)    0   2  |    0   3  |   72.97  146 |   72.74  152 |   70.03  213  HORIZON
+College Basketball 2021-2022    Div I games only    through games of 2022 February 9 Wednesday                                                  
+                                RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR   | GOLDEN_MEAN  |  RECENT    
+                HOME ADVANTAGE=[  2.53]                                               [  2.52]       [  2.55]       [  2.52]
+ 151  Seattle                 =  72.86   15   6   68.11( 299)    0   0  |    0   1  |   72.52  155 |   73.10  145 |   76.05  119  WESTERN ATHLETIC
+ 152  Drexel                  =  72.63   10  10   71.67( 168)    0   0  |    0   0  |   72.63  152 |   71.99  170 |   74.81  137  COLONIAL
+ 153  Oregon State            =  72.58    3  18   77.67(  42)    0   2  |    0   6  |   72.95  147 |   72.25  164 |   65.97  262  PAC-12
+ 154  Delaware                =  72.45   14   8   70.29( 216)    0   0  |    0   0  |   72.05  160 |   73.37  140 |   72.51  167  COLONIAL
+ 155  New Mexico              =  72.44    8  14   75.70(  81)    0   0  |    0   4  |   72.69  151 |   71.35  185 |   72.97  157  MOUNTAIN WEST
+ 156  Saint Joseph's-Pa.      =  72.43   10  12   73.93( 105)    0   1  |    0   2  |   72.27  157 |   72.65  155 |   72.44  169  ATLANTIC 10
+ 157  Jacksonville State      =  72.39   14   8   69.25( 255)    0   1  |    0   1  |   72.38  156 |   72.23  165 |   71.96  181  ATLANTIC SUN
+ 158  Loyola Marymount        =  72.36    8  12   75.70(  82)    0   1  |    0   4  |   71.96  162 |   73.62  137 |   70.43  205  WEST COAST
+ 159  Texas State             =  72.34   12   6   69.29( 253)    0   2  |    0   2  |   71.99  161 |   72.80  149 |   74.43  144  SUN BELT
+ 160  Appalachian State       =  72.29   12  10   72.84( 136)    0   1  |    0   2  |   71.86  166 |   72.57  159 |   77.01  106  SUN BELT
+College Basketball 2021-2022    Div I games only    through games of 2022 February 9 Wednesday                                                  
+                                RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR   | GOLDEN_MEAN  |  RECENT    
+                HOME ADVANTAGE=[  2.53]                                               [  2.52]       [  2.55]       [  2.52]
+ 161  VMI                     =  72.26   11  10   71.46( 178)    0   0  |    0   1  |   72.06  159 |   72.09  169 |   75.47  128  SOUTHERN
+ 162  Georgia                 =  72.18    6  18   78.10(  34)    1   4  |    2   6  |   72.54  154 |   71.55  181 |   67.76  244  SOUTHEASTERN
+ 163  Navy                    =  72.16   15   8   68.10( 301)    0   0  |    0   1  |   72.11  158 |   72.48  161 |   69.63  217  PATRIOT
+ 164  UTEP                    =  72.13   12   9   71.43( 180)    0   1  |    0   2  |   71.88  164 |   72.09  168 |   75.32  131  CONFERENCE USA
+ 165  East Tennessee State(ETS=  72.06   11  13   73.21( 125)    0   1  |    0   2  |   71.91  163 |   72.49  160 |   70.57  202  SOUTHERN
+ 166  Pennsylvania            =  72.05   10  12   73.36( 119)    0   2  |    0   2  |   71.86  165 |   71.94  172 |   74.81  138  IVY LEAGUE
+ 167  Middle Tennessee        =  71.92   13   7   71.01( 192)    0   0  |    0   1  |   71.54  171 |   72.23  166 |   75.49  127  CONFERENCE USA
+ 168  Massachusetts           =  71.91   10  12   73.57( 114)    0   0  |    1   1  |   71.67  167 |   72.45  162 |   71.55  183  ATLANTIC 10
+ 169  NC Greensboro           =  71.89   13  10   71.79( 163)    0   1  |    0   1  |   71.42  176 |   72.77  150 |   73.49  149  SOUTHERN
+ 170  CS Fullerton            =  71.76   12   7   69.78( 234)    0   0  |    0   1  |   71.64  168 |   71.67  178 |   72.98  156  BIG WEST
+College Basketball 2021-2022    Div I games only    through games of 2022 February 9 Wednesday                                                  
+                                RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR   | GOLDEN_MEAN  |  RECENT    
+                HOME ADVANTAGE=[  2.53]                                               [  2.52]       [  2.55]       [  2.52]
+ 171  College of Charleston   =  71.71   13   9   70.05( 226)    0   0  |    0   1  |   71.46  173 |   71.88  174 |   73.70  147  COLONIAL
+ 172  Cleveland State         =  71.70   14   5   67.36( 329)    0   0  |    0   1  |   71.18  180 |   72.71  153 |   73.46  151  HORIZON
+ 173  Winthrop                =  71.69   13   8   69.84( 230)    0   0  |    0   2  |   71.18  181 |   72.85  148 |   72.43  170  BIG SOUTH-S
+ 174  East Carolina           =  71.67   12  11   73.70( 111)    0   1  |    1   3  |   71.54  170 |   71.93  173 |   70.81  198  AMER. ATHLETIC
+ 175  North Dakota State      =  71.64   15   8   68.16( 298)    0   1  |    0   1  |   71.07  183 |   72.64  156 |   74.40  145  SUMMIT LEAGUE
+ 176  Saint Peter's           =  71.62   10   8   69.71( 237)    0   0  |    0   1  |   71.44  175 |   71.29  186 |   75.36  130  METRO ATLANTIC
+ 177  Hawai'i                 =  71.62    9   7   69.85( 229)    0   0  |    0   0  |   71.54  172 |   71.52  183 |   72.20  176  BIG WEST
+ 178  Southern Utah           =  71.51   13   7   67.89( 307)    0   1  |    0   2  |   71.14  182 |   72.58  158 |   70.23  210  BIG SKY
+ 179  Arkansas State          =  71.48   12   6   68.10( 300)    0   2  |    0   2  |   71.01  185 |   71.95  171 |   75.52  126  SUN BELT
+ 180  Gardner-Webb            =  71.46   11  10   69.26( 254)    0   2  |    0   2  |   71.46  174 |   70.73  192 |   74.16  146  BIG SOUTH-S
+College Basketball 2021-2022    Div I games only    through games of 2022 February 9 Wednesday                                                  
+                                RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR   | GOLDEN_MEAN  |  RECENT    
+                HOME ADVANTAGE=[  2.53]                                               [  2.52]       [  2.55]       [  2.52]
+ 181  Long Beach State        =  71.44   11   9   73.04( 130)    0   2  |    0   4  |   70.92  186 |   71.84  175 |   77.10  104  BIG WEST
+ 182  Coastal Carolina        =  71.44    8  10   71.34( 183)    0   0  |    0   0  |   71.56  169 |   70.97  188 |   70.39  206  SUN BELT
+ 183  Charlotte               =  71.41   13   9   71.70( 166)    0   1  |    0   2  |   71.27  179 |   71.68  177 |   70.99  194  CONFERENCE USA
+ 184  Troy                    =  71.37   13   7   70.45( 208)    0   0  |    0   1  |   70.82  190 |   71.82  176 |   77.20  103  SUN BELT
+ 185  Harvard                 =  71.32    8   9   69.82( 231)    0   0  |    0   0  |   71.27  178 |   71.59  180 |   69.08  227  IVY LEAGUE
+ 186  Louisiana               =  71.19    8  11   70.78( 201)    0   1  |    0   2  |   71.35  177 |   70.54  196 |   70.74  199  SUN BELT
+ 187  Rice                    =  71.17   12   9   69.77( 235)    0   1  |    1   1  |   70.87  187 |   71.64  179 |   72.23  175  CONFERENCE USA
+ 188  Longwood                =  71.03   13   5   66.26( 350)    0   1  |    0   1  |   70.84  189 |   70.60  195 |   75.55  124  BIG SOUTH-N
+ 189  San Diego               =  71.01   11  11   72.94( 131)    0   1  |    0   3  |   70.68  193 |   71.38  184 |   73.20  153  WEST COAST
+ 190  Sam Houston State       =  71.01   11  11   71.44( 179)    0   1  |    0   1  |   70.86  188 |   70.43  197 |   75.59  122  WESTERN ATHLETIC
+College Basketball 2021-2022    Div I games only    through games of 2022 February 9 Wednesday                                                  
+                                RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR   | GOLDEN_MEAN  |  RECENT    
+                HOME ADVANTAGE=[  2.53]                                               [  2.52]       [  2.55]       [  2.52]
+ 191  Wright State            =  70.84   14  10   67.52( 323)    0   1  |    0   1  |   70.29  197 |   71.53  182 |   74.94  134  HORIZON
+ 192  Mercer                  =  70.81   11  12   72.30( 145)    0   1  |    0   2  |   70.58  194 |   71.27  187 |   70.56  203  SOUTHERN
+ 193  Brown                   =  70.72    9  13   71.88( 159)    0   0  |    0   1  |   71.06  184 |   70.17  204 |   65.85  263  IVY LEAGUE
+ 194  Georgia State           =  70.65    6  10   71.88( 158)    0   0  |    0   1  |   70.50  195 |   70.74  191 |   71.24  189  SUN BELT
+ 195  Valparaiso              =  70.61    9  13   72.60( 139)    0   0  |    0   1  |   70.74  192 |   70.30  201 |   68.74  231  MISSOURI VALLEY
+ 196  Old Dominion            =  70.54    8  14   71.48( 176)    0   0  |    0   0  |   70.76  191 |   69.90  207 |   68.90  229  CONFERENCE USA
+ 197  Texas Southern          =  70.40   10  10   69.16( 260)    0   0  |    1   3  |   70.21  198 |   70.37  198 |   72.52  166  SOUTHWESTERN
+ 198  Montana                 =  70.40   13   8   67.62( 318)    0   0  |    0   2  |   70.19  199 |   70.80  189 |   70.36  208  BIG SKY
+ 199  Cornell                 =  70.39   11   7   70.48( 206)    0   0  |    0   1  |   70.13  201 |   70.78  190 |   71.24  190  IVY LEAGUE
+ 200  NC Wilmington           =  70.35   14   7   69.34( 250)    0   0  |    0   0  |   70.04  203 |   70.30  202 |   74.61  140  COLONIAL
+College Basketball 2021-2022    Div I games only    through games of 2022 February 9 Wednesday                                                  
+                                RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR   | GOLDEN_MEAN  |  RECENT    
+                HOME ADVANTAGE=[  2.53]                                               [  2.52]       [  2.55]       [  2.52]
+ 201  Bellarmine              =  70.26   10  11   72.19( 150)    0   3  |    0   5  |   70.12  202 |   70.31  199 |   70.88  197  ATLANTIC SUN
+ 202  Illinois State          =  70.19    9  14   72.53( 141)    0   1  |    0   3  |   70.48  196 |   69.32  211 |   68.54  232  MISSOURI VALLEY
+ 203  Boston U.               =  70.14   16   9   66.58( 347)    0   0  |    0   0  |   69.79  206 |   70.61  194 |   72.10  178  PATRIOT
+ 204  Northern Colorado       =  70.05   10  10   70.42( 211)    0   2  |    0   4  |   70.16  200 |   69.76  209 |   68.10  241  BIG SKY
+ 205  James Madison           =  70.03   11   9   71.13( 189)    0   0  |    0   0  |   70.00  204 |   70.31  200 |   67.06  255  COLONIAL
+ 206  Norfolk State           =  70.01   12   5   65.23( 357)    0   1  |    0   1  |   69.62  207 |   70.66  193 |   71.62  182  MEAC
+ 207  UC Davis                =  69.99    9   6   68.24( 296)    0   0  |    0   0  |   69.87  205 |   69.87  208 |   71.38  186  BIG WEST
+ 208  South Florida           =  69.49    7  15   76.01(  74)    0   3  |    0   5  |   69.24  211 |   69.98  206 |   69.47  220  AMER. ATHLETIC
+ 209  Detroit Mercy           =  69.46    9  11   69.81( 232)    0   0  |    0   1  |   69.53  208 |   68.52  224 |   72.17  177  HORIZON
+ 210  Tarleton State          =  69.43    8  13   73.18( 127)    0   3  |    0   3  |   69.40  210 |   68.91  218 |   71.46  184  WESTERN ATHLETIC
+College Basketball 2021-2022    Div I games only    through games of 2022 February 9 Wednesday                                                  
+                                RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR   | GOLDEN_MEAN  |  RECENT    
+                HOME ADVANTAGE=[  2.53]                                               [  2.52]       [  2.55]       [  2.52]
+ 211  Samford                 =  69.34   12   9   71.30( 185)    0   0  |    0   1  |   68.82  221 |   69.99  205 |   72.92  159  SOUTHERN
+ 212  Marist                  =  69.32    9  13   68.96( 263)    0   0  |    0   0  |   69.19  213 |   68.86  219 |   72.81  161  METRO ATLANTIC
+ 213  Northern Kentucky       =  69.28   11  10   67.38( 328)    0   0  |    0   1  |   69.17  215 |   68.84  221 |   72.30  173  HORIZON
+ 214  Niagara                 =  69.27   10  11   69.53( 242)    0   2  |    0   2  |   69.21  212 |   68.29  229 |   74.46  143  METRO ATLANTIC
+ 215  Indiana State           =  69.24    6  14   74.56(  96)    0   1  |    0   4  |   69.47  209 |   68.92  216 |   64.93  277  MISSOURI VALLEY
+ 216  Fordham                 =  69.13   10  12   71.36( 182)    0   0  |    0   1  |   69.04  217 |   69.07  214 |   69.57  218  ATLANTIC 10
+ 217  Bowling Green           =  69.05   10  12   68.73( 276)    0   1  |    0   1  |   69.09  216 |   68.94  215 |   67.48  250  MAC
+ 218  Western Illinois        =  69.04   12  10   67.87( 308)    0   1  |    0   1  |   69.19  214 |   68.32  228 |   69.25  226  SUMMIT LEAGUE
+ 219  Eastern Washington      =  69.00    9  12   70.17( 220)    0   1  |    1   1  |   69.01  218 |   68.85  220 |   68.20  239  BIG SKY
+ 220  Bryant                  =  68.94   13   8   67.02( 337)    0   1  |    0   1  |   68.32  230 |   69.54  210 |   74.53  141  NORTHEAST
+College Basketball 2021-2022    Div I games only    through games of 2022 February 9 Wednesday                                                  
+                                RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR   | GOLDEN_MEAN  |  RECENT    
+                HOME ADVANTAGE=[  2.53]                                               [  2.52]       [  2.55]       [  2.52]
+ 221  Florida Gulf Coast      =  68.90   14   9   67.58( 320)    0   0  |    0   2  |   68.82  222 |   68.73  222 |   69.86  214  ATLANTIC SUN
+ 222  UT Arlington            =  68.86    7  13   73.45( 118)    0   0  |    0   2  |   68.72  224 |   68.91  217 |   69.44  221  SUN BELT
+ 223  Stony Brook-NY          =  68.74   13  10   68.68( 277)    0   1  |    0   2  |   68.31  231 |   70.20  203 |   65.55  268  AMERICA EAST
+ 224  Southern U.             =  68.73   12   9   68.27( 295)    0   1  |    0   1  |   68.82  223 |   67.88  237 |   70.68  200  SOUTHWESTERN
+ 225  Nicholls State          =  68.67   10   9   67.29( 331)    0   3  |    0   4  |   68.84  219 |   67.95  235 |   68.25  236  SOUTHLAND
+ 226  California Baptist      =  68.64    9  11   68.84( 269)    0   2  |    0   2  |   68.83  220 |   68.08  233 |   67.07  254  WESTERN ATHLETIC
+ 227  Marshall                =  68.61    6  15   73.23( 123)    0   0  |    1   1  |   68.55  227 |   69.23  212 |   63.81  294  CONFERENCE USA
+ 228  La Salle                =  68.57    7  14   71.88( 156)    0   1  |    0   2  |   68.71  225 |   67.76  238 |   69.34  223  ATLANTIC 10
+ 229  Duquesne                =  68.49    6  15   73.99( 103)    0   0  |    0   1  |   68.27  233 |   69.07  213 |   67.34  251  ATLANTIC 10
+ 230  Jacksonville            =  68.47   11   8   68.63( 278)    0   0  |    0   0  |   68.25  234 |   68.41  227 |   71.11  193  ATLANTIC SUN
+College Basketball 2021-2022    Div I games only    through games of 2022 February 9 Wednesday                                                  
+                                RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR   | GOLDEN_MEAN  |  RECENT    
+                HOME ADVANTAGE=[  2.53]                                               [  2.52]       [  2.55]       [  2.52]
+ 231  Campbell                =  68.42   10   9   67.27( 332)    0   1  |    0   1  |   68.48  228 |   68.01  234 |   68.16  240  BIG SOUTH-N
+ 232  Georgia Southern        =  68.31    8  10   70.93( 196)    0   0  |    0   0  |   68.31  232 |   67.93  236 |   69.06  228  SUN BELT
+ 233  UMBC                    =  68.27   11  10   67.52( 324)    0   0  |    0   0  |   68.05  236 |   68.27  230 |   70.66  201  AMERICA EAST
+ 234  Fairfield               =  68.21    9  13   68.80( 272)    0   0  |    0   1  |   68.63  226 |   67.21  246 |   64.53  280  METRO ATLANTIC
+ 235  George Washington       =  68.19    9  13   72.65( 138)    0   0  |    0   1  |   67.76  240 |   68.10  232 |   74.46  142  ATLANTIC 10
+ 236  South Dakota            =  68.05   11  10   67.60( 319)    0   0  |    0   0  |   67.80  238 |   68.48  226 |   68.43  235  SUMMIT LEAGUE
+ 237  Dartmouth               =  67.86    4  14   72.34( 143)    0   0  |    0   0  |   68.08  235 |   67.22  244 |   66.04  261  IVY LEAGUE
+ 238  Ball State              =  67.85   10  12   69.87( 228)    0   1  |    0   1  |   67.26  243 |   68.51  225 |   72.36  171  MAC
+ 239  Northeastern            =  67.84    7  16   71.75( 164)    0   0  |    0   1  |   67.77  239 |   68.12  231 |   65.80  265  COLONIAL
+ 240  Eastern Kentucky        =  67.76    7  14   67.89( 306)    0   0  |    0   2  |   68.35  229 |   66.36  256 |   62.46  311  ATLANTIC SUN
+College Basketball 2021-2022    Div I games only    through games of 2022 February 9 Wednesday                                                  
+                                RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR   | GOLDEN_MEAN  |  RECENT    
+                HOME ADVANTAGE=[  2.53]                                               [  2.52]       [  2.55]       [  2.52]
+ 241  Miami-Ohio              =  67.65    7  13   70.70( 202)    0   0  |    0   0  |   67.81  237 |   67.46  243 |   63.83  293  MAC
+ 242  NC Asheville            =  67.58   10  11   67.95( 304)    0   0  |    0   2  |   67.55  241 |   67.66  240 |   66.08  260  BIG SOUTH-S
+ 243  Portland                =  67.54   11  12   71.60( 170)    0   1  |    1   5  |   67.25  244 |   67.46  242 |   71.37  187  WEST COAST
+ 244  Kansas City(UMKC)       =  67.51   12   9   67.79( 312)    0   1  |    0   1  |   66.65  251 |   68.72  223 |   73.08  154  SUMMIT LEAGUE
+ 245  Pepperdine              =  67.28    6  18   73.56( 116)    0   1  |    0   6  |   67.39  242 |   67.18  247 |   64.05  289  WEST COAST
+ 246  Youngstown State        =  67.25   13  10   66.25( 351)    0   0  |    0   1  |   66.83  248 |   67.67  239 |   70.43  204  HORIZON
+ 247  Fla. International      =  67.03   11  11   68.59( 280)    0   0  |    0   1  |   66.90  247 |   67.53  241 |   64.57  279  CONFERENCE USA
+ 248  CS Bakersfield          =  66.96    4  11   71.91( 155)    0   1  |    1   1  |   67.00  245 |   67.00  248 |   63.94  290  BIG WEST
+ 249  The Citadel             =  66.90    7  12   70.23( 219)    0   1  |    0   1  |   66.62  253 |   66.71  250 |   71.19  192  SOUTHERN
+ 250  Elon                    =  66.84    5  17   73.56( 115)    0   2  |    0   5  |   66.59  254 |   66.55  251 |   71.23  191  COLONIAL
+College Basketball 2021-2022    Div I games only    through games of 2022 February 9 Wednesday                                                  
+                                RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR   | GOLDEN_MEAN  |  RECENT    
+                HOME ADVANTAGE=[  2.53]                                               [  2.52]       [  2.55]       [  2.52]
+ 251  Mount St. Mary's        =  66.84   10  11   67.00( 338)    0   2  |    0   2  |   66.68  249 |   66.47  253 |   70.10  211  NORTHEAST
+ 252  Quinnipiac              =  66.81   11  10   68.00( 303)    0   0  |    0   0  |   66.51  255 |   67.00  249 |   69.34  224  METRO ATLANTIC
+ 253  Fort Wayne(PFW)         =  66.76   11  10   66.97( 339)    0   0  |    0   0  |   66.68  250 |   66.51  252 |   68.21  238  HORIZON
+ 254  New Hampshire           =  66.73    8  10   66.80( 344)    0   0  |    0   2  |   67.00  246 |   66.18  260 |   62.81  307  AMERICA EAST
+ 255  Siena                   =  66.62   10   9   68.75( 275)    0   0  |    0   0  |   66.10  257 |   67.21  245 |   70.30  209  METRO ATLANTIC
+ 256  Pacific                 =  66.53    5  16   71.74( 165)    0   0  |    1   2  |   66.64  252 |   66.26  258 |   64.28  285  WEST COAST
+ 257  Air Force               =  66.12   10  12   72.20( 149)    0   0  |    0   3  |   65.84  263 |   66.41  255 |   67.68  246  MOUNTAIN WEST
+ 258  Kennesaw State          =  66.08    7  13   70.95( 194)    0   0  |    0   1  |   66.23  256 |   65.01  275 |   67.93  242  ATLANTIC SUN
+ 259  High Point              =  66.07    8  13   69.53( 241)    0   2  |    0   2  |   65.97  259 |   65.69  267 |   68.48  234  BIG SOUTH-N
+ 260  UMass Lowell            =  66.04    9  11   67.67( 315)    0   0  |    0   0  |   66.00  258 |   66.22  259 |   63.90  291  AMERICA EAST
+College Basketball 2021-2022    Div I games only    through games of 2022 February 9 Wednesday                                                  
+                                RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR   | GOLDEN_MEAN  |  RECENT    
+                HOME ADVANTAGE=[  2.53]                                               [  2.52]       [  2.55]       [  2.52]
+ 261  Loyola-Maryland         =  65.89   12  11   65.44( 355)    0   0  |    0   1  |   65.85  262 |   66.00  262 |   64.16  288  PATRIOT
+ 262  Howard                  =  65.80    8  10   66.79( 346)    0   1  |    0   1  |   65.90  260 |   64.90  279 |   67.50  247  MEAC
+ 263  New Orleans             =  65.71   10   9   66.35( 348)    0   0  |    0   0  |   65.41  268 |   66.03  261 |   67.49  249  SOUTHLAND
+ 264  Manhattan               =  65.65   10  10   68.58( 281)    0   0  |    0   0  |   65.33  269 |   66.45  254 |   64.97  276  METRO ATLANTIC
+ 265  Long Island U.(LIU)     =  65.60    8  13   68.36( 294)    0   1  |    0   2  |   65.42  266 |   65.75  266 |   66.46  259  NORTHEAST
+ 266  Evansville              =  65.60    5  16   73.76( 109)    0   0  |    0   1  |   65.32  270 |   65.91  264 |   67.23  253  MISSOURI VALLEY
+ 267  Albany-NY               =  65.56   10  14   68.40( 291)    0   1  |    0   1  |   65.46  265 |   65.75  265 |   64.38  282  AMERICA EAST
+ 268  ULM                     =  65.49    9  12   70.94( 195)    0   2  |    0   2  |   65.04  274 |   66.32  257 |   66.75  256  SUN BELT
+ 269  Austin Peay             =  65.46    5  14   72.24( 148)    0   0  |    0   1  |   65.47  264 |   65.22  271 |   65.24  271  OHIO VALLEY
+ 270  North Florida(UNF)      =  65.44    4  18   73.87( 107)    0   3  |    0   4  |   65.29  272 |   64.90  278 |   69.40  222  ATLANTIC SUN
+College Basketball 2021-2022    Div I games only    through games of 2022 February 9 Wednesday                                                  
+                                RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR   | GOLDEN_MEAN  |  RECENT    
+                HOME ADVANTAGE=[  2.53]                                               [  2.52]       [  2.55]       [  2.52]
+ 271  Army West Point         =  65.43   11  12   66.84( 342)    0   1  |    0   1  |   65.30  271 |   65.95  263 |   62.52  310  PATRIOT
+ 272  Texas A&M-CorpusChristi =  65.38   12   7   63.54( 358)    0   0  |    0   0  |   65.42  267 |   65.10  274 |   64.73  278  SOUTHLAND
+ 273  Rider                   =  65.32    8  13   68.55( 283)    0   0  |    0   0  |   64.85  279 |   65.36  270 |   70.89  196  METRO ATLANTIC
+ 274  Tennessee Tech          =  65.30    4  18   72.87( 134)    0   1  |    0   2  |   65.87  261 |   63.12  299 |   65.00  275  OHIO VALLEY
+ 275  Eastern Michigan        =  65.14    7  15   71.64( 169)    0   1  |    0   2  |   65.07  273 |   65.13  273 |   65.05  273  MAC
+ 276  UC San Diego            =  65.09    8  12   69.45( 246)    0   0  |    0   1  |   64.90  278 |   65.66  268 |   63.06  299  BIG WEST
+ 277  Portland State          =  65.08    6  13   68.40( 290)    0   1  |    0   1  |   64.71  281 |   64.94  277 |   70.08  212  BIG SKY
+ 278  San Jose State          =  64.98    6  16   75.02(  92)    0   1  |    0   4  |   64.99  276 |   64.95  276 |   63.17  298  MOUNTAIN WEST
+ 279  Illinois-Chicago        =  64.89    7  13   69.19( 258)    0   0  |    0   1  |   64.93  277 |   64.68  281 |   63.66  295  HORIZON
+ 280  NC A&T                  =  64.76    7  15   70.02( 227)    0   0  |    0   1  |   65.01  275 |   63.88  287 |   63.65  296  BIG SOUTH-N
+College Basketball 2021-2022    Div I games only    through games of 2022 February 9 Wednesday                                                  
+                                RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR   | GOLDEN_MEAN  |  RECENT    
+                HOME ADVANTAGE=[  2.53]                                               [  2.52]       [  2.55]       [  2.52]
+ 281  Presbyterian College    =  64.67    8  15   69.78( 233)    0   1  |    0   1  |   64.79  280 |   64.38  282 |   62.28  315  BIG SOUTH-S
+ 282  Lipscomb                =  64.67    7  16   70.42( 210)    0   1  |    0   1  |   64.46  284 |   65.40  269 |   61.85  317  ATLANTIC SUN
+ 283  Canisius                =  64.63    7  16   70.53( 205)    0   0  |    0   0  |   64.62  282 |   64.07  286 |   66.57  257  METRO ATLANTIC
+ 284  Stetson                 =  64.48    7  13   69.25( 256)    0   0  |    0   0  |   64.23  285 |   64.24  283 |   68.23  237  ATLANTIC SUN
+ 285  SE Missouri State(SEMO) =  64.34    9  13   67.53( 322)    0   0  |    0   0  |   63.99  287 |   64.84  280 |   65.84  264  OHIO VALLEY
+ 286  Western Carolina        =  64.29    8  17   71.58( 171)    0   0  |    0   1  |   63.90  288 |   65.14  272 |   64.38  283  SOUTHERN
+ 287  Hartford                =  64.15    5  16   67.64( 316)    0   0  |    0   0  |   64.52  283 |   63.19  297 |   60.77  331  AMERICA EAST
+ 288  Alcorn State            =  64.00    9  14   70.87( 199)    0   3  |    0   5  |   63.78  290 |   63.77  288 |   67.34  252  SOUTHWESTERN
+ 289  USC Upstate             =  63.85    8  12   69.62( 238)    0   1  |    0   2  |   63.32  293 |   64.13  285 |   68.90  230  BIG SOUTH-S
+ 290  UTRGV                   =  63.83    5  16   70.91( 197)    0   3  |    0   3  |   64.00  286 |   63.21  296 |   62.84  306  WESTERN ATHLETIC
+College Basketball 2021-2022    Div I games only    through games of 2022 February 9 Wednesday                                                  
+                                RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR   | GOLDEN_MEAN  |  RECENT    
+                HOME ADVANTAGE=[  2.53]                                               [  2.52]       [  2.55]       [  2.52]
+ 291  NC Central              =  63.79    7  11   68.37( 293)    0   1  |    0   2  |   63.77  291 |   63.32  294 |   65.43  269  MEAC
+ 292  Radford                 =  63.66    5  16   70.36( 215)    0   0  |    0   2  |   63.80  289 |   63.42  291 |   60.30  332  BIG SOUTH-N
+ 293  Prairie View A&M        =  63.45    4  15   73.18( 126)    0   2  |    0   5  |   63.51  292 |   63.17  298 |   62.31  314  SOUTHWESTERN
+ 294  Little Rock             =  63.33    4  13   71.80( 162)    0   1  |    0   2  |   63.00  296 |   64.22  284 |   61.95  316  SUN BELT
+ 295  NJIT(New Jersey Tech)   =  63.25    9  12   67.38( 327)    0   0  |    0   0  |   62.99  298 |   63.66  289 |   63.90  292  AMERICA EAST
+ 296  Binghamton-NY           =  63.17    8  11   66.90( 340)    0   1  |    0   1  |   62.54  307 |   63.35  293 |   69.55  219  AMERICA EAST
+ 297  Dixie State             =  63.10    7  12   70.15( 222)    0   1  |    0   2  |   62.70  305 |   63.00  301 |   67.93  243  WESTERN ATHLETIC
+ 298  Tennessee State         =  63.09    8  14   65.68( 354)    0   0  |    0   0  |   63.00  297 |   62.76  304 |   65.06  272  OHIO VALLEY
+ 299  SE Louisiana            =  63.09    8  12   68.79( 273)    0   1  |    0   1  |   62.94  300 |   63.31  295 |   62.87  304  SOUTHLAND
+ 300  North Alabama           =  63.03    5  15   69.74( 236)    0   2  |    0   3  |   63.09  295 |   62.66  309 |   62.57  309  ATLANTIC SUN
+College Basketball 2021-2022    Div I games only    through games of 2022 February 9 Wednesday                                                  
+                                RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR   | GOLDEN_MEAN  |  RECENT    
+                HOME ADVANTAGE=[  2.53]                                               [  2.52]       [  2.55]       [  2.52]
+ 301  Coppin State            =  62.89    5  17   71.42( 181)    0   1  |    0   2  |   62.92  302 |   62.28  313 |   64.25  286  MEAC
+ 302  UTSA                    =  62.87    5  16   70.89( 198)    0   0  |    0   2  |   62.61  306 |   63.39  292 |   62.69  308  CONFERENCE USA
+ 303  Jackson State           =  62.85    6  16   70.07( 224)    0   1  |    0   3  |   62.97  299 |   62.37  312 |   61.68  321  SOUTHWESTERN
+ 304  Cal Poly-SLO            =  62.83    4  15   70.37( 213)    0   0  |    0   0  |   62.77  303 |   62.64  310 |   63.49  297  BIG WEST
+ 305  Merrimack               =  62.81    8  14   67.79( 311)    0   1  |    0   3  |   62.73  304 |   63.03  300 |   61.01  330  NORTHEAST
+ 306  Denver                  =  62.76    8  16   67.77( 313)    0   0  |    0   0  |   62.92  301 |   61.72  318 |   64.22  287  SUMMIT LEAGUE
+ 307  SIU-Edwardsville        =  62.75    5  17   69.43( 248)    0   0  |    0   1  |   63.28  294 |   61.36  322 |   56.80  351  OHIO VALLEY
+ 308  Central Michigan        =  62.53    6  14   72.28( 147)    0   3  |    0   3  |   61.70  316 |   63.50  290 |   67.49  248  MAC
+ 309  Northern Illinois       =  62.52    6  15   71.09( 190)    0   0  |    0   2  |   62.29  311 |   62.96  302 |   62.31  313  MAC
+ 310  Lehigh                  =  62.48    8  16   67.72( 314)    0   0  |    0   0  |   62.41  309 |   61.77  316 |   65.74  266  PATRIOT
+College Basketball 2021-2022    Div I games only    through games of 2022 February 9 Wednesday                                                  
+                                RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR   | GOLDEN_MEAN  |  RECENT    
+                HOME ADVANTAGE=[  2.53]                                               [  2.52]       [  2.55]       [  2.52]
+ 311  CS Northridge           =  62.48    4  15   71.81( 161)    0   0  |    0   2  |   62.51  308 |   62.66  308 |   57.74  346  BIG WEST
+ 312  Milwaukee               =  62.38    6  18   68.58( 282)    0   0  |    0   1  |   62.30  310 |   62.74  305 |   59.22  339  HORIZON
+ 313  Sacred Heart            =  62.24    7  14   66.28( 349)    0   0  |    0   1  |   62.29  312 |   62.02  314 |   61.06  329  NORTHEAST
+ 314  Lafayette               =  62.11    6  15   68.51( 286)    0   1  |    0   1  |   61.76  314 |   62.73  306 |   62.88  303  PATRIOT
+ 315  Robert Morris           =  62.08    5  18   68.54( 284)    0   1  |    0   1  |   62.11  313 |   61.54  320 |   63.06  301  HORIZON
+ 316  Grambling State         =  62.08    8  13   68.89( 265)    0   2  |    0   4  |   61.55  319 |   62.59  311 |   65.73  267  SOUTHWESTERN
+ 317  Florida A&M             =  61.80    8  12   68.05( 302)    0   0  |    0   0  |   61.49  320 |   61.74  317 |   65.37  270  SOUTHWESTERN
+ 318  Saint Francis-Pa.       =  61.77    6  16   67.44( 325)    0   1  |    0   2  |   61.64  317 |   61.93  315 |   61.62  323  NORTHEAST
+ 319  McNeese State           =  61.74    5  15   69.45( 245)    0   1  |    0   2  |   61.74  315 |   61.28  323 |   62.84  305  SOUTHLAND
+ 320  Southern Miss           =  61.70    4  16   72.17( 151)    0   0  |    0   1  |   61.24  324 |   62.76  303 |   61.30  326  CONFERENCE USA
+College Basketball 2021-2022    Div I games only    through games of 2022 February 9 Wednesday                                                  
+                                RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR   | GOLDEN_MEAN  |  RECENT    
+                HOME ADVANTAGE=[  2.53]                                               [  2.52]       [  2.55]       [  2.52]
+ 321  Sacramento State        =  61.68    4  13   68.49( 287)    0   1  |    0   1  |   61.24  325 |   62.68  307 |   61.57  324  BIG SKY
+ 322  Alabama State           =  61.35    6  17   69.33( 251)    0   3  |    0   3  |   61.48  321 |   59.95  336 |   64.45  281  SOUTHWESTERN
+ 323  Northern Arizona        =  61.34    6  15   68.79( 274)    0   2  |    0   2  |   61.31  323 |   61.49  321 |   59.16  341  BIG SKY
+ 324  Green Bay               =  61.22    3  19   69.29( 252)    0   1  |    0   1  |   61.58  318 |   60.03  334 |   59.03  342  HORIZON
+ 325  St. Francis-NY          =  61.21    6  16   65.95( 352)    0   1  |    0   1  |   61.40  322 |   60.32  332 |   61.18  327  NORTHEAST
+ 326  Bucknell                =  61.18    6  19   68.46( 289)    0   0  |    0   0  |   61.15  326 |   61.23  324 |   59.52  336  PATRIOT
+ 327  Tennessee-Martin        =  61.00    6  16   70.37( 214)    0   1  |    0   1  |   61.01  327 |   60.61  326 |   61.53  325  OHIO VALLEY
+ 328  American U.             =  60.65    6  17   67.22( 333)    0   0  |    0   0  |   60.36  329 |   61.58  319 |   57.73  347  PATRIOT
+ 329  Western Michigan        =  60.63    2  19   72.29( 146)    0   2  |    0   2  |   60.74  328 |   60.57  328 |   56.00  352  MAC
+ 330  Northwestern State      =  60.47    4  17   71.57( 172)    0   3  |    0   4  |   60.23  333 |   60.43  329 |   63.06  300  SOUTHLAND
+College Basketball 2021-2022    Div I games only    through games of 2022 February 9 Wednesday                                                  
+                                RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR   | GOLDEN_MEAN  |  RECENT    
+                HOME ADVANTAGE=[  2.53]                                               [  2.52]       [  2.55]       [  2.52]
+ 331  Idaho                   =  60.45    3  17   71.05( 191)    0   0  |    0   1  |   60.29  332 |   60.32  331 |   62.36  312  BIG SKY
+ 332  Hampton                 =  60.37    5  15   67.85( 309)    0   0  |    0   0  |   60.35  331 |   60.02  335 |   61.14  328  BIG SOUTH-N
+ 333  Morgan State            =  60.31    3  11   67.32( 330)    0   0  |    0   1  |   60.17  334 |   60.60  327 |   59.38  337  MEAC
+ 334  William & Mary          =  60.28    4  19   70.07( 223)    0   0  |    0   1  |   60.00  335 |   60.30  333 |   62.97  302  COLONIAL
+ 335  Idaho State             =  59.97    2  17   70.07( 225)    0   0  |    0   0  |   59.22  339 |   60.64  325 |   65.02  274  BIG SKY
+ 336  St. Thomas-Mn.          =  59.88    5  15   69.44( 247)    0   0  |    0   0  |   59.89  336 |   59.22  339 |   61.68  322  SUMMIT LEAGUE
+ 337  Lamar                   =  59.71    0  20   70.23( 218)    0   1  |    0   2  |   60.35  330 |   57.60  348 |   54.52  355  WESTERN ATHLETIC
+ 338  SC State                =  59.43    9  11   65.33( 356)    0   1  |    0   1  |   58.58  342 |   59.66  337 |   66.46  258  MEAC
+ 339  Central Arkansas        =  59.41    5  16   72.34( 144)    0   2  |    0   3  |   58.79  341 |   60.39  330 |   61.71  320  ATLANTIC SUN
+ 340  Md.-Eastern Shore(UMES) =  59.38    5  10   68.82( 270)    0   1  |    0   1  |   59.57  337 |   57.91  345 |   61.83  318  MEAC
+College Basketball 2021-2022    Div I games only    through games of 2022 February 9 Wednesday                                                  
+                                RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR   | GOLDEN_MEAN  |  RECENT    
+                HOME ADVANTAGE=[  2.53]                                               [  2.52]       [  2.55]       [  2.52]
+ 341  Holy Cross              =  59.14    5  16   67.13( 336)    0   0  |    0   0  |   58.55  344 |   59.33  338 |   64.35  284  PATRIOT
+ 342  Omaha(Neb.-Omaha)       =  59.10    3  20   70.61( 204)    0   2  |    0   2  |   59.27  338 |   58.43  342 |   58.10  343  SUMMIT LEAGUE
+ 343  Columbia                =  58.99    3  17   68.81( 271)    0   0  |    0   0  |   58.99  340 |   58.97  340 |   57.11  350  IVY LEAGUE
+ 344  Central Connecticut St. =  58.70    6  18   67.42( 326)    0   1  |    0   2  |   58.49  345 |   58.80  341 |   60.18  333  NORTHEAST
+ 345  Bethune-Cookman         =  58.48    5  17   67.63( 317)    0   0  |    0   1  |   58.56  343 |   58.03  344 |   58.09  344  SOUTHWESTERN
+ 346  North Dakota            =  58.36    3  20   68.60( 279)    0   0  |    0   0  |   58.48  346 |   57.87  346 |   57.16  349  SUMMIT LEAGUE
+ 347  Fairleigh Dickinson     =  58.31    2  17   69.54( 240)    0   0  |    0   1  |   58.23  347 |   58.35  343 |   57.85  345  NORTHEAST
+ 348  Alabama A&M             =  57.90    5  16   67.20( 334)    0   0  |    0   1  |   57.78  348 |   57.73  347 |   59.25  338  SOUTHWESTERN
+ 349  Chicago State           =  57.47    6  17   69.46( 244)    0   0  |    0   1  |   57.23  350 |   57.36  349 |   60.10  334  WESTERN ATHLETIC
+ 350  Incarnate Word          =  57.36    3  18   68.19( 297)    0   4  |    0   4  |   57.26  349 |   57.03  351 |   59.18  340  SOUTHLAND
+College Basketball 2021-2022    Div I games only    through games of 2022 February 9 Wednesday                                                  
+                                RATING    W   L  SCHEDL(RANK) VS top 25 | VS top 50 |  PREDICTOR   | GOLDEN_MEAN  |  RECENT    
+                HOME ADVANTAGE=[  2.53]                                               [  2.52]       [  2.55]       [  2.52]
+ 351  Maine                   =  57.29    2  18   68.49( 288)    0   0  |    0   1  |   57.09  352 |   57.17  350 |   59.59  335  AMERICA EAST
+ 352  Houston Baptist         =  57.09    3  13   66.88( 341)    0   1  |    0   2  |   56.69  353 |   56.83  352 |   61.76  319  SOUTHLAND
+ 353  Charleston Southern     =  57.09    2  19   68.52( 285)    0   0  |    0   1  |   57.16  351 |   56.82  353 |   55.72  353  BIG SOUTH-S
+ 354  Eastern Illinois        =  55.83    2  19   70.63( 203)    0   0  |    0   1  |   55.54  354 |   56.11  354 |   57.59  348  OHIO VALLEY
+ 355  Ark.-Pine Bluff         =  54.16    3  19   70.23( 217)    0   2  |    0   3  |   54.22  355 |   53.56  355 |   54.73  354  SOUTHWESTERN
+ 356  IUPUI                   =  53.14    0  19   66.82( 343)    0   1  |    0   1  |   53.20  356 |   53.05  356 |   50.06  358  HORIZON
+ 357  Delaware State          =  51.70    0  17   66.80( 345)    0   0  |    0   0  |   51.87  357 |   51.04  357 |   50.39  357  MEAC
+ 358  MVSU(Miss. Valley St.)  =  50.00    1  20   67.85( 310)    0   0  |    0   1  |   50.16  358 |   48.93  358 |   50.81  356  SOUTHWESTERN
