@@ -1,360 +1,358 @@
-
-
 Gonzaga
+Arizona
 Kentucky
 Baylor
-Arizona
-Duke
-Kansas
 Houston
-Texas Tech
-UCLA
+Duke
 Auburn
-Tennessee
+UCLA
+Kansas
 Villanova
+Texas Tech
+Tennessee
 Purdue
-Texas
 Iowa
+Texas
+Saint Mary's
 LSU
 Illinois
-UConn
 Arkansas
-Ohio State
-Saint Mary's
-Alabama
+UConn
 San Diego State
+Alabama
 San Francisco
+Loyola (IL)
+Ohio State
 Wisconsin
 Murray State
 Boise State
-Seton Hall
-Loyola (IL)
-Iowa State
-Michigan
-Michigan State
 Virginia Tech
-USC
-Wake Forest
-Marquette
-Providence
-Colorado State
 UNC
-North Texas
+Wake Forest
+Colorado State
+Seton Hall
+Providence
+Michigan
 Memphis
 Oklahoma
-Indiana
-Mississippi State
-Davidson
-Wyoming
-Xavier
-BYU
-Notre Dame
-Dayton
-Utah State
-TCU
 Oklahoma State
-Washington State
-Alabama-Birmingham
+Iowa State
+Marquette
+USC
+TCU
+Michigan State
+Indiana
+BYU
+Dayton
+Notre Dame
+Davidson
+North Texas
+Mississippi State
+Xavier
 Florida
+Utah State
+Alabama-Birmingham
+Washington State
+Wyoming
+Texas A&M
 SMU
-Fresno State
+Miami (FL)
 Kansas State
 Saint Louis
-Missouri State
-Miami (FL)
-Towson
-Oregon
-West Virginia
+Fresno State
 VCU
+Missouri State
+Towson
 St. John's (NY)
-Texas A&M
-South Dakota State
-Vermont
 Creighton
-Santa Clara
-Northwestern
+West Virginia
 Furman
-Vanderbilt
 Rutgers
-Chattanooga
+Vermont
 Virginia
-UNLV
-Clemson
-Belmont
-Penn State
-Colorado
-St. Bonaventure
 Toledo
-Syracuse
-Iona
-Wichita State
-Drake
-New Mexico State
+Santa Clara
+Colorado
+South Dakota State
+Vanderbilt
+Oregon
+Northwestern
+Clemson
+Chattanooga
 Maryland
-Northern Iowa
+UNLV
+Belmont
+Drake
+St. Bonaventure
+Syracuse
+New Mexico State
+Wichita State
+Iona
 Richmond
-Bradley
-South Carolina
 Grand Canyon
-Middle Tennessee
-UCF
-Louisiana Tech
-Tulane
-Minnesota
-Cincinnati
+South Carolina
+Penn State
+Northern Iowa
+Bradley
 Arizona State
-Ole Miss
-Florida State
-Wofford
+Tulane
 DePaul
-George Mason
-UC-Irvine
-Utah Valley
-Stanford
+UCF
+Florida State
+Middle Tennessee
+Louisiana Tech
+Cincinnati
+Ole Miss
 Princeton
+Wofford
+Minnesota
+Stephen F. Austin
+Stanford
+George Mason
+Western Kentucky
+Morehead State
+Utah Valley
+Washington
 Utah
 Ohio
+Nevada
+Hofstra
+UC-Irvine
 Liberty
 Buffalo
-Western Kentucky
 Temple
 Southern Illinois
-Hofstra
-Nevada
-Stephen F. Austin
-Rhode Island
-Washington
-California
-South Alabama
-Morehead State
-Texas State
-Seattle
-Louisville
-UCSB
-Colgate
-NC State
 Florida Atlantic
-Butler
-Montana State
-Jacksonville State
-Kent State
-Abilene Christian
-Boston College
-Monmouth
+Colgate
 Wagner
+St. Peter's
+Rhode Island
+UCSB
+Seattle
+Texas State
+Butler
+South Alabama
+Kent State
+California
+Abilene Christian
+NC State
+Jacksonville State
+Montana State
 Missouri
+Nebraska
+Louisville
 Yale
+Boston College
+Winthrop
+Oral Roberts
+Drexel
+Appalachian State
+Akron
+Longwood
+Sam Houston State
 Long Beach State
 Coastal Carolina
-Drexel
-Cal State Fullerton
-Akron
-Oral Roberts
-Appalachian State
 Georgia State
 St. Joseph's
-Gardner-Webb
-Delaware
-College of Charleston
-Longwood
-VMI
-Southern Utah
-Winthrop
-St. Peter's
-Jacksonville
-Hawaii
-New Mexico
 North Dakota State
-UNC Greensboro
-Tulsa
-Sam Houston State
+College of Charleston
+New Mexico
+Jacksonville
+Southern Utah
+VMI
 Georgia Tech
-Marist
-Weber State
-Troy
-Oakland
-Navy
-UTEP
-Arkansas State
-UC-Riverside
-East Carolina
-Pitt
-Fordham
-Portland
-ETSU
-Illinois State
-Nebraska
-Georgetown
-Old Dominion
-UNC Wilmington
-Samford
+Delaware
 Norfolk State
-Texas Southern
+Monmouth
+Cal State Fullerton
+Hawaii
+Gardner-Webb
+Portland
+UC-Riverside
+Tulsa
+Troy
+UTEP
+UNC Greensboro
+East Carolina
+Arkansas State
+Weber State
+Navy
+Georgetown
 Louisiana
-Charlotte
-Cleveland State
-Penn
+Fordham
+ETSU
+Samford
+Illinois State
+Old Dominion
+Oakland
+UNC Wilmington
 Wright State
-Cornell
-Bryant
 Mercer
-Tarleton State
-Kansas City
-Southern
-Florida Gulf Coast
-UMass
-Loyola Marymount
-California Baptist
-South Dakota
-Eastern Washington
-Brown
-Harvard
-Nicholls State
-Valparaiso
-Georgia
+Cleveland State
+Charlotte
+Pitt
+Cornell
+Marist
 Niagara
+Kansas City
+UMass
+Valparaiso
+Loyola Marymount
+Texas Southern
+Bryant
+Nicholls State
+California Baptist
+Bellarmine
+South Dakota
 Northern Kentucky
-Boston University
-UNC Asheville
+Dartmouth
+Florida Gulf Coast
+Northern Colorado
+Georgia
 UC-Davis
-San Diego
-Rice
+Penn
+Tarleton State
+Brown
+Boston University
+Southern
+Eastern Washington
 Campbell
 Texas-Arlington
-Northern Colorado
-Bellarmine
+UNC Asheville
 George Washington
-Dartmouth
-Fairfield
-Howard
-Purdue-Fort Wayne
 Kennesaw State
-Detroit
+Fairfield
+San Diego
+Purdue-Fort Wayne
+Rice
 Indiana State
-LIU
+Harvard
+Detroit
+Howard
 James Madison
-Montana
 Western Illinois
 La Salle
-High Point
-Marshall
 Oregon State
-UMass-Lowell
-Siena
-Elon
-South Florida
-UMBC
-The Citadel
+LIU
 Southeast Missouri State
-Ball State
-Rider
-New Orleans
-Air Force
 New Hampshire
-Youngstown State
-Manhattan
-Florida International
-Texas A&M-Corpus Christi
-Quinnipiac
-Georgia Southern
-UC-San Diego
-Stony Brook
-Eastern Kentucky
+Montana
+The Citadel
+Marshall
+Rider
+UMBC
+Elon
+Siena
+South Florida
+High Point
 Mount St. Mary's
+UMass-Lowell
+Georgia Southern
+Stony Brook
+UC-San Diego
+Air Force
+New Orleans
+Quinnipiac
+Tennessee Tech
+Texas A&M-Corpus Christi
 Alcorn State
-Tennessee State
+Miami (OH)
+Canisius
+Youngstown State
+Eastern Kentucky
+Ball State
 Louisiana-Monroe
+Manhattan
+Lipscomb
+Florida International
+Presbyterian
+Tennessee State
 North Florida
 Northeastern
-Presbyterian
-Loyola (MD)
-Cal State Bakersfield
-Tennessee Tech
-Dixie State
-Canisius
-Lipscomb
-Miami (OH)
-Pepperdine
-Austin Peay
 Portland State
-Albany (NY)
-USC Upstate
-Jackson State
+Loyola (MD)
+Dixie State
+Cal State Bakersfield
+Pepperdine
 Southeastern Louisiana
-North Carolina Central
-Pacific
-Bowling Green State
-Maryland-Eastern Shore
-Prairie View
+Jackson State
+USC Upstate
 Hartford
-Radford
-Denver
-Duquesne
-Western Carolina
-Army
-San Jose State
-SIU-Edwardsville
-Binghamton
-Grambling
-North Carolina A&T
-Texas-Rio Grande Valley
+Bowling Green State
+Albany (NY)
 UIC
+Prairie View
+Pacific
+Duquesne
+Radford
+North Carolina Central
+Denver
+San Jose State
+Binghamton
+Austin Peay
+Morgan State
 Northern Illinois
+North Carolina A&T
+Army
+SIU-Edwardsville
+Western Carolina
 Merrimack
-Coppin State
-Eastern Michigan
-St. Thomas (MN)
 Lehigh
+Texas-Rio Grande Valley
+Maryland-Eastern Shore
+Coppin State
+St. Thomas (MN)
+Grambling
+Cal Poly
 UT-Martin
-South Carolina State
 Stetson
 Florida A&M
-Evansville
-Morgan State
-St. Francis (NY)
-McNeese State
-Cal Poly
-North Alabama
+South Carolina State
 UTSA
+Sacramento State
+Eastern Michigan
+Alabama State
+North Alabama
+McNeese State
+Alabama A&M
+Central Arkansas
+Evansville
+Central Michigan
+Sacred Heart
+Idaho
+Cal State Northridge
+St. Francis (NY)
 Lafayette
 Saint Francis (PA)
-Idaho
-Central Michigan
-Central Arkansas
-Alabama State
-Sacred Heart
-Alabama A&M
-Northwestern State
-Cal State Northridge
-Sacramento State
-Hampton
-Robert Morris
-Western Michigan
 Little Rock
-Milwaukee
-Bethune-Cookman
+Northwestern State
+Western Michigan
+Robert Morris
+Hampton
 American
-Bucknell
-Northern Arizona
-Idaho State
-NJIT
+Bethune-Cookman
 Chicago State
-William & Mary
+Idaho State
+Milwaukee
+Northern Arizona
 Houston Baptist
-Green Bay
+Bucknell
 Southern Miss
+William & Mary
+NJIT
 Omaha
+Green Bay
 North Dakota
 Fairleigh Dickinson
+Central Connecticut
 Lamar
 Holy Cross
-Central Connecticut
-Columbia
 Charleston Southern
+Columbia
 Incarnate Word
 Arkansas-Pine Bluff
 Maine
 Mississippi Valley State
-Eastern Illinois
 Delaware State
+Eastern Illinois
 IUPUI

@@ -64,7 +64,7 @@ class Kenpom:
         
         with open(kenpom_out, 'w') as f:
             for t in teams:
-                if t == 'NCSOS' or t == 'Team':
+                if t == 'NCSOS' or t == 'Team' or t == '':
                     continue
                 if t in self.nameDict.keys():
                     f.write(self.nameDict[t])
