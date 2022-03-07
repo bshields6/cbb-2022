@@ -11196,3 +11196,61 @@ VMI	66	Final
 Wofford	68	 
 Virginia Tech	59	Final
 Clemson	63	 
+Nebraska	74	Final
+Wisconsin (10) 	73	 
+Houston (14) 	61	Final
+Memphis	75	 
+Iowa (24) 	72	Final
+Illinois (20) 	74	 
+Michigan	75	Final
+Ohio State (23) 	69	 
+Albany (NY)	49	Final
+Hartford	61	 
+Binghamton	72	Final
+New Hampshire	69	 
+Boston University	80	Final
+Navy	85	OT
+UCF	72	Final
+Tulsa	73	 
+College of Charleston	92	Final
+Hofstra	76	 
+Delaware	66	Final
+Drexel	56	 
+Elon	58	Final
+UNC Wilmington	75	 
+Georgia State	71	Final
+Appalachian State	66	 
+Lehigh	61	Final
+Colgate	81	 
+Louisiana	66	Final
+Troy	57	 
+Loyola (IL)	64	Final
+Drake	58	 
+Maryland	67	Final
+Michigan State	77	 
+UMass-Lowell	85	Final
+UMBC	93	OT
+Minnesota	62	Final
+Northwestern	75	 
+NJIT	59	Final
+Vermont	98	 
+Northeastern	61	Final
+Towson	68	 
+Penn State	58	Final
+Rutgers	59	 
+Portland	67	Final
+Santa Clara	91	 
+Samford	68	Final
+Furman	71	 
+South Dakota	74	Final
+Kansas City	61	 
+South Florida	47	Final
+Temple	75	 
+Tulane	68	Final
+SMU	74	 
+Western Illinois	68	Final
+Oral Roberts	80	 
+Winthrop	58	Final
+Longwood	79	 
+Wofford	56	Final
+Chattanooga	79	 
