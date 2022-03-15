@@ -58,9 +58,11 @@ class Kenpom:
             f.close()
 
         for count,team in enumerate(teams):
-            if team.endswith('St.'):
-                team = team[:-3 ]+ 'State'
-                teams[count] = team
+            new_team = ''.join([i for i in team if not i.isdigit()])
+            new_team = new_team.rstrip()
+            if new_team.endswith('St.'):
+                new_team = new_team[:-3 ]+ 'State'
+            teams[count] = new_team
         
         with open(kenpom_out, 'w') as f:
             for t in teams:
